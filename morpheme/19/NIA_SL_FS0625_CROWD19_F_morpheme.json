@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0118/NIA_SL_FS0625_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0625_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.065,
+            "end": 4.578,
+            "attributes": [
+                {
+                    "name": "하늘길"
+                }
+            ]
+        }
+    ]
+}

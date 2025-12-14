@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0064/NIA_SL_FS0522_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0522_CROWD19_F.mp4",
+        "duration": 10.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.91,
+            "end": 8.932,
+            "attributes": [
+                {
+                    "name": "자동차시장길"
+                }
+            ]
+        }
+    ]
+}

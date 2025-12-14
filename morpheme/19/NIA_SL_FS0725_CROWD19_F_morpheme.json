@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_hwlee0133/NIA_SL_FS0725_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0725_CROWD19_F.mp4",
+        "duration": 15.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.072,
+            "end": 11.174,
+            "attributes": [
+                {
+                    "name": "한강시민공원"
+                }
+            ]
+        }
+    ]
+}

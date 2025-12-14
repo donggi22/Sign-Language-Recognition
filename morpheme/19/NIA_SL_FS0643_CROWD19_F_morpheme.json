@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0098/NIA_SL_FS0643_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0643_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.901,
+            "end": 5.805,
+            "attributes": [
+                {
+                    "name": "헌인릉길"
+                }
+            ]
+        }
+    ]
+}

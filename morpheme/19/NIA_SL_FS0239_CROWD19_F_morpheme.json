@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_sjim0002/NIA_SL_FS0239_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0239_CROWD19_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.266,
+            "end": 7.827,
+            "attributes": [
+                {
+                    "name": "보국문로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0140/NIA_SL_FS0324_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0324_CROWD18_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.269,
+            "end": 7.158,
+            "attributes": [
+                {
+                    "name": "성균관로"
+                }
+            ]
+        }
+    ]
+}

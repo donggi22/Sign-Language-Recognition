@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0144/NIA_SL_FS0162_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0162_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.146,
+            "end": 4.551,
+            "attributes": [
+                {
+                    "name": "등용로"
+                }
+            ]
+        }
+    ]
+}

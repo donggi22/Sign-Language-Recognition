@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0097/NIA_SL_FS0672_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0672_CROWD19_F.mp4",
+        "duration": 10.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.103,
+            "end": 9.425,
+            "attributes": [
+                {
+                    "name": "흥천사길"
+                }
+            ]
+        }
+    ]
+}

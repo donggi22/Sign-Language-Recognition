@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0117/NIA_SL_FS0744_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0744_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.126,
+            "end": 4.347,
+            "attributes": [
+                {
+                    "name": "도곡"
+                }
+            ]
+        }
+    ]
+}

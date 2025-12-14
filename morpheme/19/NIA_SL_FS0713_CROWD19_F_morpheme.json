@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0221/NIA_SL_FS0713_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0713_CROWD19_F.mp4",
+        "duration": 10.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.125,
+            "end": 10.213,
+            "attributes": [
+                {
+                    "name": "익선동한옥마을"
+                }
+            ]
+        }
+    ]
+}

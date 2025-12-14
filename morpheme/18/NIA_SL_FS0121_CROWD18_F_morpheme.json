@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_hwlee0009/NIA_SL_FS0121_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0121_CROWD18_F.mp4",
+        "duration": 7.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.215,
+            "end": 5.266,
+            "attributes": [
+                {
+                    "name": "대서문길"
+                }
+            ]
+        }
+    ]
+}

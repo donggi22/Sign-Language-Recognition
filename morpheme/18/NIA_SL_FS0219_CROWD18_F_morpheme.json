@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0012/NIA_SL_FS0219_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0219_CROWD18_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.161,
+            "end": 9.608,
+            "attributes": [
+                {
+                    "name": "방배선행길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_sjim0178/NIA_SL_FS0537_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0537_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.416,
+            "end": 5.588,
+            "attributes": [
+                {
+                    "name": "장충단로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0220/NIA_SL_FS0710_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0710_CROWD18_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.352,
+            "end": 6.285,
+            "attributes": [
+                {
+                    "name": "운현궁"
+                }
+            ]
+        }
+    ]
+}

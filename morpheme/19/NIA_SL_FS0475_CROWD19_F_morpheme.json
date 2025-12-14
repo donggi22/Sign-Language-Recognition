@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0087/NIA_SL_FS0475_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0475_CROWD19_F.mp4",
+        "duration": 7.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.958,
+            "end": 4.335,
+            "attributes": [
+                {
+                    "name": "우현로"
+                }
+            ]
+        }
+    ]
+}

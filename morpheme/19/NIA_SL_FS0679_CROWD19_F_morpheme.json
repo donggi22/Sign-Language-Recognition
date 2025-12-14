@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0107/NIA_SL_FS0679_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0679_CROWD19_F.mp4",
+        "duration": 10.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.207,
+            "end": 8.835,
+            "attributes": [
+                {
+                    "name": "광장시장"
+                }
+            ]
+        }
+    ]
+}

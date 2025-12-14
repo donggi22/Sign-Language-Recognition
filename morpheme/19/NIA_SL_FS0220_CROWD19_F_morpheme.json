@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0014/NIA_SL_FS0220_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0220_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.307,
+            "end": 6.512,
+            "attributes": [
+                {
+                    "name": "방배중앙로"
+                }
+            ]
+        }
+    ]
+}

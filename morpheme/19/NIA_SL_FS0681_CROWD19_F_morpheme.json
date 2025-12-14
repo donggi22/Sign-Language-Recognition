@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0110/NIA_SL_FS0681_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0681_CROWD19_F.mp4",
+        "duration": 15.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.326,
+            "end": 14.006,
+            "attributes": [
+                {
+                    "name": "국립서울현충원"
+                }
+            ]
+        }
+    ]
+}

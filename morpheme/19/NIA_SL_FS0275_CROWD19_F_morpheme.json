@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_yhjeon0004/NIA_SL_FS0275_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0275_CROWD19_F.mp4",
+        "duration": 7.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.081,
+            "end": 5.706,
+            "attributes": [
+                {
+                    "name": "삼일대로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0036/NIA_SL_FS0233_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0233_CROWD19_F.mp4",
+        "duration": 10.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.906,
+            "end": 5.75,
+            "attributes": [
+                {
+                    "name": "벌말로"
+                }
+            ]
+        }
+    ]
+}

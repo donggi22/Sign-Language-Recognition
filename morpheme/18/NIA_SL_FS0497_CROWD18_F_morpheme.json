@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0074/NIA_SL_FS0497_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0497_CROWD18_F.mp4",
+        "duration": 10.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.319,
+            "end": 7.383,
+            "attributes": [
+                {
+                    "name": "윤보선길"
+                }
+            ]
+        }
+    ]
+}

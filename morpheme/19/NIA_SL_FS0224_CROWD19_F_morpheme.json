@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0136/NIA_SL_FS0224_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0224_CROWD19_F.mp4",
+        "duration": 11.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.276,
+            "end": 7.143,
+            "attributes": [
+                {
+                    "name": "방화대로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_hwlee0127/NIA_SL_FS0721_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0721_CROWD19_F.mp4",
+        "duration": 10.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.392,
+            "end": 8.793,
+            "attributes": [
+                {
+                    "name": "통인시장"
+                }
+            ]
+        }
+    ]
+}

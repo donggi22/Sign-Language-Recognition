@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_moyu0128/NIA_SL_FS0785_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0785_CROWD18_F.mp4",
+        "duration": 7.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.952,
+            "end": 6.248,
+            "attributes": [
+                {
+                    "name": "종로3가"
+                }
+            ]
+        }
+    ]
+}

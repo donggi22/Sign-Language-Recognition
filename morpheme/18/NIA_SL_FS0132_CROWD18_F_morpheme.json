@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_hwlee0023/NIA_SL_FS0132_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0132_CROWD18_F.mp4",
+        "duration": 7.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.909,
+            "end": 5.524,
+            "attributes": [
+                {
+                    "name": "도림천로"
+                }
+            ]
+        }
+    ]
+}

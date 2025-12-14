@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0019/NIA_SL_FS0164_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0164_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.083,
+            "end": 5.456,
+            "attributes": [
+                {
+                    "name": "디지털로"
+                }
+            ]
+        }
+    ]
+}

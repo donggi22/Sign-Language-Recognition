@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_jhhan0083/NIA_SL_FS0443_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0443_CROWD19_F.mp4",
+        "duration": 10.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.324,
+            "end": 7.229,
+            "attributes": [
+                {
+                    "name": "영동대로"
+                }
+            ]
+        }
+    ]
+}

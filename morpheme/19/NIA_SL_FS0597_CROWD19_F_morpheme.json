@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0079/NIA_SL_FS0597_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0597_CROWD19_F.mp4",
+        "duration": 7.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.009,
+            "end": 6.219,
+            "attributes": [
+                {
+                    "name": "충무로"
+                }
+            ]
+        }
+    ]
+}

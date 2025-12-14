@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0151/NIA_SL_FS0259_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0259_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.954,
+            "end": 5.314,
+            "attributes": [
+                {
+                    "name": "불광천길"
+                }
+            ]
+        }
+    ]
+}

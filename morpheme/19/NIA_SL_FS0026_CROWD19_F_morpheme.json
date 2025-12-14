@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_bkyu0028/NIA_SL_FS0026_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0026_CROWD19_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.169,
+            "end": 6.788,
+            "attributes": [
+                {
+                    "name": "개화길"
+                }
+            ]
+        }
+    ]
+}

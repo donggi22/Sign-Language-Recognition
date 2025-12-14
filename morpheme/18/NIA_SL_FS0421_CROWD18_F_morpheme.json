@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0152/NIA_SL_FS0421_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0421_CROWD18_F.mp4",
+        "duration": 11.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.961,
+            "end": 6.684,
+            "attributes": [
+                {
+                    "name": "양화진길"
+                }
+            ]
+        }
+    ]
+}

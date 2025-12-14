@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0170/NIA_SL_FS0456_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0456_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.135,
+            "end": 5.094,
+            "attributes": [
+                {
+                    "name": "옥인길"
+                }
+            ]
+        }
+    ]
+}

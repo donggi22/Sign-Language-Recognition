@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0029/NIA_SL_FS0171_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0171_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.741,
+            "end": 4.071,
+            "attributes": [
+                {
+                    "name": "마방로"
+                }
+            ]
+        }
+    ]
+}

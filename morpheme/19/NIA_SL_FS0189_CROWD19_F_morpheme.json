@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0010/NIA_SL_FS0189_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0189_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.635,
+            "end": 4.819,
+            "attributes": [
+                {
+                    "name": "명일로"
+                }
+            ]
+        }
+    ]
+}

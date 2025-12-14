@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_hwlee0038/NIA_SL_FS0144_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0144_CROWD19_F.mp4",
+        "duration": 7.617,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.012,
+            "end": 4.846,
+            "attributes": [
+                {
+                    "name": "돈화문로"
+                }
+            ]
+        }
+    ]
+}

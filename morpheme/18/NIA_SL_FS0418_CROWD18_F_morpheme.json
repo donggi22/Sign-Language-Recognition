@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0089/NIA_SL_FS0418_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0418_CROWD18_F.mp4",
+        "duration": 7.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.076,
+            "end": 5.077,
+            "attributes": [
+                {
+                    "name": "양천로"
+                }
+            ]
+        }
+    ]
+}

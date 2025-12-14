@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_bkyu0024/NIA_SL_FS0022_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0022_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.116,
+            "end": 4.846,
+            "attributes": [
+                {
+                    "name": "강서로"
+                }
+            ]
+        }
+    ]
+}

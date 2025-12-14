@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0113/NIA_SL_FS0653_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0653_CROWD19_F.mp4",
+        "duration": 7.65,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.193,
+            "end": 6.047,
+            "attributes": [
+                {
+                    "name": "홍제내길"
+                }
+            ]
+        }
+    ]
+}

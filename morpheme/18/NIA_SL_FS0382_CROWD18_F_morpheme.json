@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0082/NIA_SL_FS0382_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0382_CROWD18_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.981,
+            "end": 7.027,
+            "attributes": [
+                {
+                    "name": "신반포로"
+                }
+            ]
+        }
+    ]
+}

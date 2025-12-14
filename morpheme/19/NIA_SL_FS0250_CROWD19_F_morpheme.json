@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_sjim0020/NIA_SL_FS0250_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0250_CROWD19_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 4.939,
+            "end": 9.954,
+            "attributes": [
+                {
+                    "name": "봉화산로"
+                }
+            ]
+        }
+    ]
+}

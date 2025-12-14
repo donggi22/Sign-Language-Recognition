@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0137/NIA_SL_FS0226_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0226_CROWD19_F.mp4",
+        "duration": 11.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.277,
+            "end": 7.675,
+            "attributes": [
+                {
+                    "name": "백련사길"
+                }
+            ]
+        }
+    ]
+}

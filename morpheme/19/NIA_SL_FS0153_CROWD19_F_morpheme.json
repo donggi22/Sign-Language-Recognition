@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0005/NIA_SL_FS0153_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0153_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.002,
+            "end": 5.09,
+            "attributes": [
+                {
+                    "name": "동소문로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0166/NIA_SL_FS0030_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0030_CROWD18_F.mp4",
+        "duration": 10.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.704,
+            "end": 6.457,
+            "attributes": [
+                {
+                    "name": "겸재로"
+                }
+            ]
+        }
+    ]
+}

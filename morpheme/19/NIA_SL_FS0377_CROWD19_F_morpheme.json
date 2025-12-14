@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0074/NIA_SL_FS0377_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0377_CROWD19_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.01,
+            "end": 7.084,
+            "attributes": [
+                {
+                    "name": "신대방길"
+                }
+            ]
+        }
+    ]
+}

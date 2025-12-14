@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_emyou0157/NIA_SL_FS0071_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0071_CROWD19_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.267,
+            "end": 6.429,
+            "attributes": [
+                {
+                    "name": "국회단지길"
+                }
+            ]
+        }
+    ]
+}

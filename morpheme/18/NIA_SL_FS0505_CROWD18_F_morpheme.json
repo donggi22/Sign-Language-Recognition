@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0085/NIA_SL_FS0505_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0505_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.952,
+            "end": 3.732,
+            "attributes": [
+                {
+                    "name": "을지로"
+                }
+            ]
+        }
+    ]
+}

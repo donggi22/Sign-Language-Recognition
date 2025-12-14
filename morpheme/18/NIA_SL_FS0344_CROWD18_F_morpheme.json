@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_emyou0067/NIA_SL_FS0344_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0344_CROWD18_F.mp4",
+        "duration": 7.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.052,
+            "end": 5.468,
+            "attributes": [
+                {
+                    "name": "세종대로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0188/NIA_SL_FS0796_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0796_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.314,
+            "end": 3.175,
+            "attributes": [
+                {
+                    "name": "판교"
+                }
+            ]
+        }
+    ]
+}

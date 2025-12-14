@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0155/NIA_SL_FS0119_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0119_CROWD19_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.287,
+            "end": 5.316,
+            "attributes": [
+                {
+                    "name": "대방천로"
+                }
+            ]
+        }
+    ]
+}

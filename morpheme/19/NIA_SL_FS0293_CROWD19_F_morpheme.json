@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_yhjeon0031/NIA_SL_FS0293_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0293_CROWD19_F.mp4",
+        "duration": 7.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.972,
+            "end": 5.848,
+            "attributes": [
+                {
+                    "name": "새터산길"
+                }
+            ]
+        }
+    ]
+}

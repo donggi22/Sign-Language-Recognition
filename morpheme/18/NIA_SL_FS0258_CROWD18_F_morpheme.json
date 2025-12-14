@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0150/NIA_SL_FS0258_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0258_CROWD18_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.327,
+            "end": 5.054,
+            "attributes": [
+                {
+                    "name": "불광로"
+                }
+            ]
+        }
+    ]
+}

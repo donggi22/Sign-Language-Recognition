@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_swlee0047/NIA_SL_FS0542_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0542_CROWD18_F.mp4",
+        "duration": 10.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.161,
+            "end": 7.746,
+            "attributes": [
+                {
+                    "name": "전원말안길"
+                }
+            ]
+        }
+    ]
+}

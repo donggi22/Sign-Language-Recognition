@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_gdchoi0206/NIA_SL_FS0761_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0761_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.128,
+            "end": 3.616,
+            "attributes": [
+                {
+                    "name": "석촌"
+                }
+            ]
+        }
+    ]
+}

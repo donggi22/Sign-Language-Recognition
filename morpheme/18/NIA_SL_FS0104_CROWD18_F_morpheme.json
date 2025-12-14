@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0033/NIA_SL_FS0104_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0104_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.211,
+            "end": 5.653,
+            "attributes": [
+                {
+                    "name": "녹사평대로"
+                }
+            ]
+        }
+    ]
+}

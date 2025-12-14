@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_rhkim0130/NIA_SL_FS0822_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0822_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.46,
+            "end": 3.242,
+            "attributes": [
+                {
+                    "name": "1명"
+                }
+            ]
+        }
+    ]
+}

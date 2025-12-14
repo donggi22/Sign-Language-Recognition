@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0063/NIA_SL_FS0400_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0400_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.368,
+            "end": 5.162,
+            "attributes": [
+                {
+                    "name": "아차산로"
+                }
+            ]
+        }
+    ]
+}

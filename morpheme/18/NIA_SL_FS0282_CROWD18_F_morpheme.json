@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_yhjeon0014/NIA_SL_FS0282_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0282_CROWD18_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.945,
+            "end": 7.582,
+            "attributes": [
+                {
+                    "name": "상봉중앙로"
+                }
+            ]
+        }
+    ]
+}

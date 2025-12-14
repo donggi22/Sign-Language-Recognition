@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_bkyu0066/NIA_SL_FS0314_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0314_CROWD18_F.mp4",
+        "duration": 7.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.992,
+            "end": 6.209,
+            "attributes": [
+                {
+                    "name": "서초중앙로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0089/NIA_SL_FS0387_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0387_CROWD18_F.mp4",
+        "duration": 7.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.986,
+            "end": 5.531,
+            "attributes": [
+                {
+                    "name": "신월로"
+                }
+            ]
+        }
+    ]
+}

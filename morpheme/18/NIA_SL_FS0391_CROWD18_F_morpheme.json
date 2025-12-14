@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0050/NIA_SL_FS0391_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0391_CROWD18_F.mp4",
+        "duration": 7.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.1,
+            "end": 4.604,
+            "attributes": [
+                {
+                    "name": "신촌로"
+                }
+            ]
+        }
+    ]
+}

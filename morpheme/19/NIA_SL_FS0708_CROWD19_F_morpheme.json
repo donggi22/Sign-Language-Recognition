@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0219/NIA_SL_FS0708_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0708_CROWD19_F.mp4",
+        "duration": 10.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.624,
+            "end": 7.552,
+            "attributes": [
+                {
+                    "name": "여의도공원"
+                }
+            ]
+        }
+    ]
+}

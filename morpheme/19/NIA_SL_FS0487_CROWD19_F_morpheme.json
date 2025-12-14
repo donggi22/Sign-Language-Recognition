@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0060/NIA_SL_FS0487_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0487_CROWD19_F.mp4",
+        "duration": 7.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.052,
+            "end": 4.581,
+            "attributes": [
+                {
+                    "name": "위례북로"
+                }
+            ]
+        }
+    ]
+}

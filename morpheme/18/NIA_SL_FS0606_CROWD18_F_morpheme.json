@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0092/NIA_SL_FS0606_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0606_CROWD18_F.mp4",
+        "duration": 7.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.224,
+            "end": 5.601,
+            "attributes": [
+                {
+                    "name": "태봉로"
+                }
+            ]
+        }
+    ]
+}

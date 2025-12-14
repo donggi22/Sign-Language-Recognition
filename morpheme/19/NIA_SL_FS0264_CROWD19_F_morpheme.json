@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0153/NIA_SL_FS0264_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0264_CROWD19_F.mp4",
+        "duration": 11.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.048,
+            "end": 5.617,
+            "attributes": [
+                {
+                    "name": "사임당로"
+                }
+            ]
+        }
+    ]
+}

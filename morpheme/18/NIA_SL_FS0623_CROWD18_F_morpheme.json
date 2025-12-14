@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0115/NIA_SL_FS0623_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0623_CROWD18_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.098,
+            "end": 6.374,
+            "attributes": [
+                {
+                    "name": "필운대로"
+                }
+            ]
+        }
+    ]
+}

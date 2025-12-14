@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0159/NIA_SL_FS0435_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0435_CROWD18_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.037,
+            "end": 3.986,
+            "attributes": [
+                {
+                    "name": "연동로"
+                }
+            ]
+        }
+    ]
+}

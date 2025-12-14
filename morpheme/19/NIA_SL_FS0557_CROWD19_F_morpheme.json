@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0147/NIA_SL_FS0557_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0557_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.29,
+            "end": 5.844,
+            "attributes": [
+                {
+                    "name": "중랑역로"
+                }
+            ]
+        }
+    ]
+}

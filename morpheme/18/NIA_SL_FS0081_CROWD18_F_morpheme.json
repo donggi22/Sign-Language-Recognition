@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0005/NIA_SL_FS0081_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0081_CROWD18_F.mp4",
+        "duration": 7.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.737,
+            "end": 5.188,
+            "attributes": [
+                {
+                    "name": "기아로"
+                }
+            ]
+        }
+    ]
+}

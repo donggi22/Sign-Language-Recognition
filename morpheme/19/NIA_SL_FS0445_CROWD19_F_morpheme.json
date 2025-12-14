@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_jhhan0087/NIA_SL_FS0445_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0445_CROWD19_F.mp4",
+        "duration": 7.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.983,
+            "end": 5.541,
+            "attributes": [
+                {
+                    "name": "영신로"
+                }
+            ]
+        }
+    ]
+}

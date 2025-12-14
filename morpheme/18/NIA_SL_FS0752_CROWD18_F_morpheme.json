@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0129/NIA_SL_FS0752_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0752_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.771,
+            "end": 3.11,
+            "attributes": [
+                {
+                    "name": "모란"
+                }
+            ]
+        }
+    ]
+}

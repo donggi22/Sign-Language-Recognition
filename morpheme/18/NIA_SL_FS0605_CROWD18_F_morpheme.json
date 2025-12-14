@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0090/NIA_SL_FS0605_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0605_CROWD18_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.191,
+            "end": 8.607,
+            "attributes": [
+                {
+                    "name": "탑성말길"
+                }
+            ]
+        }
+    ]
+}

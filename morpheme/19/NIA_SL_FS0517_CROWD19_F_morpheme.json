@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0057/NIA_SL_FS0517_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0517_CROWD19_F.mp4",
+        "duration": 10.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.083,
+            "end": 8.795,
+            "attributes": [
+                {
+                    "name": "인왕시장길"
+                }
+            ]
+        }
+    ]
+}

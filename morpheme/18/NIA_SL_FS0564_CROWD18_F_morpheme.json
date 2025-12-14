@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_swlee0078/NIA_SL_FS0564_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0564_CROWD18_F.mp4",
+        "duration": 7.784,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.04,
+            "end": 5.968,
+            "attributes": [
+                {
+                    "name": "증산서길"
+                }
+            ]
+        }
+    ]
+}

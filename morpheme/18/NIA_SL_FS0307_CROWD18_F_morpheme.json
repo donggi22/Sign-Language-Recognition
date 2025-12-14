@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0176/NIA_SL_FS0307_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0307_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.191,
+            "end": 4.007,
+            "attributes": [
+                {
+                    "name": "서애로"
+                }
+            ]
+        }
+    ]
+}

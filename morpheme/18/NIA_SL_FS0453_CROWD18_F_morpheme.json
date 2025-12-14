@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0054/NIA_SL_FS0453_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0453_CROWD18_F.mp4",
+        "duration": 10.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.365,
+            "end": 6.149,
+            "attributes": [
+                {
+                    "name": "오정로"
+                }
+            ]
+        }
+    ]
+}

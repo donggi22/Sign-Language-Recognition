@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0224/NIA_SL_FS0717_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0717_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 3.293,
+            "end": 5.297,
+            "attributes": [
+                {
+                    "name": "종묘"
+                }
+            ]
+        }
+    ]
+}

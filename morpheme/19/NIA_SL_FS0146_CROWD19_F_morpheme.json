@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_hwlee0041/NIA_SL_FS0146_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0146_CROWD19_F.mp4",
+        "duration": 7.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.872,
+            "end": 4.674,
+            "attributes": [
+                {
+                    "name": "동광로"
+                }
+            ]
+        }
+    ]
+}

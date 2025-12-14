@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0066/NIA_SL_FS0588_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0588_CROWD18_F.mp4",
+        "duration": 10.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.599,
+            "end": 7.944,
+            "attributes": [
+                {
+                    "name": "청룡마을길"
+                }
+            ]
+        }
+    ]
+}

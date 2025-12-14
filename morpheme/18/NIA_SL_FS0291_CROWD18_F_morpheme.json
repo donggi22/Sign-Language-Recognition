@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0169/NIA_SL_FS0291_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0291_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.051,
+            "end": 4.126,
+            "attributes": [
+                {
+                    "name": "새정길"
+                }
+            ]
+        }
+    ]
+}

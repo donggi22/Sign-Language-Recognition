@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_moyu0118/NIA_SL_FS0778_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0778_CROWD18_F.mp4",
+        "duration": 7.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.95,
+            "end": 3.767,
+            "attributes": [
+                {
+                    "name": "온수"
+                }
+            ]
+        }
+    ]
+}

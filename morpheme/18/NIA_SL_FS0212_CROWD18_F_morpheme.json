@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0174/NIA_SL_FS0212_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0212_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.692,
+            "end": 6.685,
+            "attributes": [
+                {
+                    "name": "바람드리길"
+                }
+            ]
+        }
+    ]
+}

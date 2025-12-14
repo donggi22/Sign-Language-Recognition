@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0057/NIA_SL_FS0485_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0485_CROWD19_F.mp4",
+        "duration": 10.584,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.156,
+            "end": 8.811,
+            "attributes": [
+                {
+                    "name": "위례광장로"
+                }
+            ]
+        }
+    ]
+}

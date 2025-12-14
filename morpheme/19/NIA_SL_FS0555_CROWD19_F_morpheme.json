@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0146/NIA_SL_FS0555_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0555_CROWD19_F.mp4",
+        "duration": 8.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.522,
+            "end": 5.75,
+            "attributes": [
+                {
+                    "name": "중고개길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0149/NIA_SL_FS0257_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0257_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.955,
+            "end": 5.259,
+            "attributes": [
+                {
+                    "name": "분당수서로"
+                }
+            ]
+        }
+    ]
+}

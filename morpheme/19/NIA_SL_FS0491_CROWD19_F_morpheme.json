@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0066/NIA_SL_FS0491_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0491_CROWD19_F.mp4",
+        "duration": 7.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.379,
+            "end": 6.699,
+            "attributes": [
+                {
+                    "name": "위례송하로"
+                }
+            ]
+        }
+    ]
+}

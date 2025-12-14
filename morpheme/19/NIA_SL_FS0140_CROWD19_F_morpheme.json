@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0171/NIA_SL_FS0140_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0140_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.116,
+            "end": 5.329,
+            "attributes": [
+                {
+                    "name": "독립문로"
+                }
+            ]
+        }
+    ]
+}

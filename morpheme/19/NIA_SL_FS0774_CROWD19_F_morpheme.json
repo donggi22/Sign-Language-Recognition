@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_gdchoi0216/NIA_SL_FS0774_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0774_CROWD19_F.mp4",
+        "duration": 7.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.335,
+            "end": 4.797,
+            "attributes": [
+                {
+                    "name": "연신내"
+                }
+            ]
+        }
+    ]
+}

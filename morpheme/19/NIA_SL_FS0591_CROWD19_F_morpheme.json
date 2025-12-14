@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0071/NIA_SL_FS0591_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0591_CROWD19_F.mp4",
+        "duration": 10.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.401,
+            "end": 7.437,
+            "attributes": [
+                {
+                    "name": "청와대로"
+                }
+            ]
+        }
+    ]
+}

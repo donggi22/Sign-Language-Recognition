@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0081/NIA_SL_FS0502_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0502_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.862,
+            "end": 5.314,
+            "attributes": [
+                {
+                    "name": "은행나무로"
+                }
+            ]
+        }
+    ]
+}

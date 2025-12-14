@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_emyou0138/NIA_SL_FS0048_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0048_CROWD18_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.081,
+            "end": 4.489,
+            "attributes": [
+                {
+                    "name": "공릉로"
+                }
+            ]
+        }
+    ]
+}

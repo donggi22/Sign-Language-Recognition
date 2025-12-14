@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0089/NIA_SL_FS0540_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0540_CROWD18_F.mp4",
+        "duration": 7.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.184,
+            "end": 4.284,
+            "attributes": [
+                {
+                    "name": "전농로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0154/NIA_SL_FS0118_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0118_CROWD19_F.mp4",
+        "duration": 7.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.398,
+            "end": 6.997,
+            "attributes": [
+                {
+                    "name": "대방동길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0047/NIA_SL_FS0510_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0510_CROWD19_F.mp4",
+        "duration": 7.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.979,
+            "end": 4.492,
+            "attributes": [
+                {
+                    "name": "이촌로"
+                }
+            ]
+        }
+    ]
+}

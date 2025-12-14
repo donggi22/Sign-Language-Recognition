@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0076/NIA_SL_FS0409_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0409_CROWD18_F.mp4",
+        "duration": 7.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.262,
+            "end": 5.574,
+            "attributes": [
+                {
+                    "name": "약령시로"
+                }
+            ]
+        }
+    ]
+}

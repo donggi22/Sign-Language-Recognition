@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0074/NIA_SL_FS0408_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0408_CROWD18_F.mp4",
+        "duration": 7.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.125,
+            "end": 6.102,
+            "attributes": [
+                {
+                    "name": "약령서길"
+                }
+            ]
+        }
+    ]
+}

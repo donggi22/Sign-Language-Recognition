@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0053/NIA_SL_FS0452_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0452_CROWD19_F.mp4",
+        "duration": 7.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.531,
+            "end": 4.398,
+            "attributes": [
+                {
+                    "name": "오목로"
+                }
+            ]
+        }
+    ]
+}

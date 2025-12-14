@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0139/NIA_SL_FS0322_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0322_CROWD19_F.mp4",
+        "duration": 8.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.778,
+            "end": 4.042,
+            "attributes": [
+                {
+                    "name": "선잠로"
+                }
+            ]
+        }
+    ]
+}

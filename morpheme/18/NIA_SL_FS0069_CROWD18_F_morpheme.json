@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0035/NIA_SL_FS0069_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0069_CROWD18_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.202,
+            "end": 7.252,
+            "attributes": [
+                {
+                    "name": "국사봉길"
+                }
+            ]
+        }
+    ]
+}

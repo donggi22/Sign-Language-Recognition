@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0029/NIA_SL_FS0229_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0229_CROWD18_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.935,
+            "end": 6.548,
+            "attributes": [
+                {
+                    "name": "백석동길"
+                }
+            ]
+        }
+    ]
+}

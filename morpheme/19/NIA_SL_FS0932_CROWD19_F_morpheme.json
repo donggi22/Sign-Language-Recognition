@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_yhjeon0122/NIA_SL_FS0932_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0932_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.847,
+            "end": 4.531,
+            "attributes": [
+                {
+                    "name": "2시간"
+                }
+            ]
+        }
+    ]
+}

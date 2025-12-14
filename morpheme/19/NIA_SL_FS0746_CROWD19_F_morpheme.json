@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0120/NIA_SL_FS0746_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0746_CROWD19_F.mp4",
+        "duration": 15.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.967,
+            "end": 11.962,
+            "attributes": [
+                {
+                    "name": "동대문역사문화공원"
+                }
+            ]
+        }
+    ]
+}

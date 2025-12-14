@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0148/NIA_SL_FS0339_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0339_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.321,
+            "end": 5.539,
+            "attributes": [
+                {
+                    "name": "성지길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0054/NIA_SL_FS0579_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0579_CROWD19_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.751,
+            "end": 6.283,
+            "attributes": [
+                {
+                    "name": "천중로"
+                }
+            ]
+        }
+    ]
+}

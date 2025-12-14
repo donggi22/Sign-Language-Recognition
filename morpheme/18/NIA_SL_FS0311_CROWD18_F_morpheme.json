@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0178/NIA_SL_FS0311_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0311_CROWD18_F.mp4",
+        "duration": 11.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.524,
+            "end": 9.231,
+            "attributes": [
+                {
+                    "name": "서울시립대로"
+                }
+            ]
+        }
+    ]
+}

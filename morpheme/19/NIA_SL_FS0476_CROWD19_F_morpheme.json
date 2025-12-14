@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0089/NIA_SL_FS0476_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0476_CROWD19_F.mp4",
+        "duration": 7.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.021,
+            "end": 5.483,
+            "attributes": [
+                {
+                    "name": "워커힐로"
+                }
+            ]
+        }
+    ]
+}

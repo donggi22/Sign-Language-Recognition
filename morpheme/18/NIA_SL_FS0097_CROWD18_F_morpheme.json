@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0024/NIA_SL_FS0097_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0097_CROWD18_F.mp4",
+        "duration": 10.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.974,
+            "end": 9.122,
+            "attributes": [
+                {
+                    "name": "남산공원길"
+                }
+            ]
+        }
+    ]
+}

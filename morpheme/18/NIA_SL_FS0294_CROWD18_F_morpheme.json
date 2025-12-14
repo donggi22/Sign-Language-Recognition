@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0170/NIA_SL_FS0294_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0294_CROWD18_F.mp4",
+        "duration": 7.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.101,
+            "end": 4.999,
+            "attributes": [
+                {
+                    "name": "샘마루길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0163/NIA_SL_FS0027_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0027_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.483,
+            "end": 6.139,
+            "attributes": [
+                {
+                    "name": "개화동로"
+                }
+            ]
+        }
+    ]
+}

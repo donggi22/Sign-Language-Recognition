@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0179/NIA_SL_FS0394_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0394_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.909,
+            "end": 4.691,
+            "attributes": [
+                {
+                    "name": "신흥로"
+                }
+            ]
+        }
+    ]
+}

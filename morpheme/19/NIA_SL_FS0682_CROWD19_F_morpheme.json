@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0112/NIA_SL_FS0682_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0682_CROWD19_F.mp4",
+        "duration": 15.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.448,
+            "end": 13.956,
+            "attributes": [
+                {
+                    "name": "국립중앙박물관"
+                }
+            ]
+        }
+    ]
+}

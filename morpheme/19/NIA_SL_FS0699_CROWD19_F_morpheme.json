@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0214/NIA_SL_FS0699_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0699_CROWD19_F.mp4",
+        "duration": 16,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.264,
+            "end": 9.688,
+            "attributes": [
+                {
+                    "name": "서대문형무소"
+                }
+            ]
+        }
+    ]
+}

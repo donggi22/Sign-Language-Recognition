@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0154/NIA_SL_FS0175_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0175_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.068,
+            "end": 5.449,
+            "attributes": [
+                {
+                    "name": "마포나루길"
+                }
+            ]
+        }
+    ]
+}

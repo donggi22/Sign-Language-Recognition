@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0119/NIA_SL_FS0687_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0687_CROWD18_F.mp4",
+        "duration": 7.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.135,
+            "end": 3.508,
+            "attributes": [
+                {
+                    "name": "대학로"
+                }
+            ]
+        }
+    ]
+}

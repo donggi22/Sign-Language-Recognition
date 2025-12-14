@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0179/NIA_SL_FS0149_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0149_CROWD18_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.925,
+            "end": 4.782,
+            "attributes": [
+                {
+                    "name": "동마길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0157/NIA_SL_FS0570_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0570_CROWD19_F.mp4",
+        "duration": 8.084,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.282,
+            "end": 5.032,
+            "attributes": [
+                {
+                    "name": "참숯길"
+                }
+            ]
+        }
+    ]
+}

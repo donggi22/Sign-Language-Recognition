@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0185/NIA_SL_FS0792_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0792_CROWD18_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.007,
+            "end": 6.515,
+            "attributes": [
+                {
+                    "name": "총신대입구"
+                }
+            ]
+        }
+    ]
+}

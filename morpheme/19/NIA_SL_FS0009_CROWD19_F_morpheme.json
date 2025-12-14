@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0145/NIA_SL_FS0009_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0009_CROWD19_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.562,
+            "end": 6.581,
+            "attributes": [
+                {
+                    "name": "가재울로"
+                }
+            ]
+        }
+    ]
+}

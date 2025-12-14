@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0155/NIA_SL_FS0568_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0568_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.991,
+            "end": 5.267,
+            "attributes": [
+                {
+                    "name": "진황도로"
+                }
+            ]
+        }
+    ]
+}

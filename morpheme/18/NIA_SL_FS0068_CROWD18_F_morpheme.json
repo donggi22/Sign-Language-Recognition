@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0034/NIA_SL_FS0068_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0068_CROWD18_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.851,
+            "end": 7.83,
+            "attributes": [
+                {
+                    "name": "구천면로"
+                }
+            ]
+        }
+    ]
+}

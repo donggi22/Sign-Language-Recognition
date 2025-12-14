@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0155/NIA_SL_FS0427_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0427_CROWD18_F.mp4",
+        "duration": 11.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.84,
+            "end": 5.445,
+            "attributes": [
+                {
+                    "name": "여의대로"
+                }
+            ]
+        }
+    ]
+}

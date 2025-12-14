@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0180/NIA_SL_FS0221_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0221_CROWD19_F.mp4",
+        "duration": 11.134,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.093,
+            "end": 6.739,
+            "attributes": [
+                {
+                    "name": "방배천로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0111/NIA_SL_FS0652_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0652_CROWD18_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.036,
+            "end": 5.959,
+            "attributes": [
+                {
+                    "name": "홍익로"
+                }
+            ]
+        }
+    ]
+}

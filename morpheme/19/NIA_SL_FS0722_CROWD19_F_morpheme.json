@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_hwlee0128/NIA_SL_FS0722_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0722_CROWD19_F.mp4",
+        "duration": 10.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.387,
+            "end": 7.89,
+            "attributes": [
+                {
+                    "name": "풍물시장"
+                }
+            ]
+        }
+    ]
+}

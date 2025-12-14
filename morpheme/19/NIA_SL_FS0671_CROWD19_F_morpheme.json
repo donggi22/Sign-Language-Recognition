@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0095/NIA_SL_FS0671_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0671_CROWD19_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.796,
+            "end": 7.855,
+            "attributes": [
+                {
+                    "name": "흑석한강로"
+                }
+            ]
+        }
+    ]
+}

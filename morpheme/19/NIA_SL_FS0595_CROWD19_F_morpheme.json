@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0076/NIA_SL_FS0595_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0595_CROWD19_F.mp4",
+        "duration": 10.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.991,
+            "end": 8.233,
+            "attributes": [
+                {
+                    "name": "초안산로"
+                }
+            ]
+        }
+    ]
+}

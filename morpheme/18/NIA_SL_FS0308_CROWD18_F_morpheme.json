@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0177/NIA_SL_FS0308_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0308_CROWD18_F.mp4",
+        "duration": 11.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.41,
+            "end": 6.796,
+            "attributes": [
+                {
+                    "name": "서오릉로"
+                }
+            ]
+        }
+    ]
+}

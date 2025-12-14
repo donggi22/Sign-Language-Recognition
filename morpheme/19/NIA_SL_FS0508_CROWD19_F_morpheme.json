@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0089/NIA_SL_FS0508_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0508_CROWD19_F.mp4",
+        "duration": 7.684,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.919,
+            "end": 5.523,
+            "attributes": [
+                {
+                    "name": "의상봉길"
+                }
+            ]
+        }
+    ]
+}

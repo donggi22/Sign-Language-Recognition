@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0006/NIA_SL_FS0186_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0186_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.409,
+            "end": 5.648,
+            "attributes": [
+                {
+                    "name": "명동길"
+                }
+            ]
+        }
+    ]
+}

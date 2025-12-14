@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0148/NIA_SL_FS0012_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0012_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.62,
+            "end": 4.722,
+            "attributes": [
+                {
+                    "name": "간호대로"
+                }
+            ]
+        }
+    ]
+}

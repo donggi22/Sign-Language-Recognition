@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0099/NIA_SL_FS0644_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0644_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.884,
+            "end": 4.399,
+            "attributes": [
+                {
+                    "name": "현충로"
+                }
+            ]
+        }
+    ]
+}

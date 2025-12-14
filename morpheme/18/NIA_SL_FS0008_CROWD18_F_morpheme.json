@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0144/NIA_SL_FS0008_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0008_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.868,
+            "end": 3.613,
+            "attributes": [
+                {
+                    "name": "가양대로"
+                }
+            ]
+        }
+    ]
+}

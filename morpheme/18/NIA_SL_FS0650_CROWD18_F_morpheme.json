@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0108/NIA_SL_FS0650_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0650_CROWD18_F.mp4",
+        "duration": 7.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.977,
+            "end": 5.137,
+            "attributes": [
+                {
+                    "name": "홍연길"
+                }
+            ]
+        }
+    ]
+}

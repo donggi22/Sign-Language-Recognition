@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0167/NIA_SL_FS0288_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0288_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.931,
+            "end": 4.579,
+            "attributes": [
+                {
+                    "name": "새문안로"
+                }
+            ]
+        }
+    ]
+}

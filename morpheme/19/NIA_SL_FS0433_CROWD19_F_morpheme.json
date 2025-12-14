@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0158/NIA_SL_FS0433_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0433_CROWD19_F.mp4",
+        "duration": 7.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.176,
+            "end": 4.211,
+            "attributes": [
+                {
+                    "name": "연남로"
+                }
+            ]
+        }
+    ]
+}

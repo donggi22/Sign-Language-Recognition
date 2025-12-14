@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0025/NIA_SL_FS0061_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0061_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.073,
+            "end": 4.996,
+            "attributes": [
+                {
+                    "name": "구로동로"
+                }
+            ]
+        }
+    ]
+}

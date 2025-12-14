@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_rhkim0211/NIA_SL_FS0964_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0964_CROWD18_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.102,
+            "end": 2.016,
+            "attributes": [
+                {
+                    "name": "3달"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0118/NIA_SL_FS0686_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0686_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.999,
+            "end": 5.613,
+            "attributes": [
+                {
+                    "name": "남한산성"
+                }
+            ]
+        }
+    ]
+}

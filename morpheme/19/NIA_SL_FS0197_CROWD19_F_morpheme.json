@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0023/NIA_SL_FS0197_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0197_CROWD19_F.mp4",
+        "duration": 15.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.573,
+            "end": 10.747,
+            "attributes": [
+                {
+                    "name": "목동중앙남로"
+                }
+            ]
+        }
+    ]
+}

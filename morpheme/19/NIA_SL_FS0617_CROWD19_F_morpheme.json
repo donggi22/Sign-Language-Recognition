@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_bkyu0208/NIA_SL_FS0617_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0617_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.692,
+            "end": 5.219,
+            "attributes": [
+                {
+                    "name": "포방터길"
+                }
+            ]
+        }
+    ]
+}

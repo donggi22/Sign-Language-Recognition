@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_sjim0003/NIA_SL_FS0240_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0240_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.984,
+            "end": 4.535,
+            "attributes": [
+                {
+                    "name": "보라매로"
+                }
+            ]
+        }
+    ]
+}

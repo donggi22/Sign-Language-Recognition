@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_emyou0073/NIA_SL_FS0348_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0348_CROWD19_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.235,
+            "end": 6.032,
+            "attributes": [
+                {
+                    "name": "손기정로"
+                }
+            ]
+        }
+    ]
+}

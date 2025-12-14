@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0150/NIA_SL_FS0014_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0014_CROWD18_F.mp4",
+        "duration": 10.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.234,
+            "end": 6.57,
+            "attributes": [
+                {
+                    "name": "감이남로"
+                }
+            ]
+        }
+    ]
+}

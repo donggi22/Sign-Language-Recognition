@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_bkyu0205/NIA_SL_FS0613_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0613_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.991,
+            "end": 5.755,
+            "attributes": [
+                {
+                    "name": "팔판길"
+                }
+            ]
+        }
+    ]
+}

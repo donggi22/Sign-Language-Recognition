@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0007/NIA_SL_FS0187_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0187_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.902,
+            "end": 5.213,
+            "attributes": [
+                {
+                    "name": "명륜길"
+                }
+            ]
+        }
+    ]
+}

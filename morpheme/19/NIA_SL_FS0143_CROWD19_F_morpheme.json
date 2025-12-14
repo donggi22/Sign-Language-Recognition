@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_hwlee0037/NIA_SL_FS0143_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0143_CROWD19_F.mp4",
+        "duration": 7.684,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.031,
+            "end": 5.517,
+            "attributes": [
+                {
+                    "name": "독서당로"
+                }
+            ]
+        }
+    ]
+}

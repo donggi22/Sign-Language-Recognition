@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0160/NIA_SL_FS0437_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0437_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.464,
+            "end": 4.642,
+            "attributes": [
+                {
+                    "name": "연서로"
+                }
+            ]
+        }
+    ]
+}

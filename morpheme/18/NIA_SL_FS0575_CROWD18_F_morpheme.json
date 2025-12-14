@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0048/NIA_SL_FS0575_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0575_CROWD18_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.756,
+            "end": 5.493,
+            "attributes": [
+                {
+                    "name": "창전로"
+                }
+            ]
+        }
+    ]
+}

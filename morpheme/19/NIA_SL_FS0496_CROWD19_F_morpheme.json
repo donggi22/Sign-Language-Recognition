@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0073/NIA_SL_FS0496_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0496_CROWD19_F.mp4",
+        "duration": 7.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.887,
+            "end": 6.572,
+            "attributes": [
+                {
+                    "name": "유통단지길"
+                }
+            ]
+        }
+    ]
+}

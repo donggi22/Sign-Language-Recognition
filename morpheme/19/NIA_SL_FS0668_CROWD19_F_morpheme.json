@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0091/NIA_SL_FS0668_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0668_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.901,
+            "end": 4.208,
+            "attributes": [
+                {
+                    "name": "후암로"
+                }
+            ]
+        }
+    ]
+}

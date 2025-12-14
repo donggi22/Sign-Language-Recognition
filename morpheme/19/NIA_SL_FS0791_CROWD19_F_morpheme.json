@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0184/NIA_SL_FS0791_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0791_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.339,
+            "end": 3.103,
+            "attributes": [
+                {
+                    "name": "초지"
+                }
+            ]
+        }
+    ]
+}

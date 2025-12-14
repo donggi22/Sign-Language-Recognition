@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0020/NIA_SL_FS0057_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0057_CROWD18_F.mp4",
+        "duration": 7.684,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.026,
+            "end": 5.937,
+            "attributes": [
+                {
+                    "name": "광신길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0141/NIA_SL_FS0325_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0325_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.842,
+            "end": 4.752,
+            "attributes": [
+                {
+                    "name": "성남대로"
+                }
+            ]
+        }
+    ]
+}

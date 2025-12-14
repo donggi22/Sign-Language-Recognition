@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0154/NIA_SL_FS0265_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0265_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.607,
+            "end": 4.649,
+            "attributes": [
+                {
+                    "name": "사직로"
+                }
+            ]
+        }
+    ]
+}

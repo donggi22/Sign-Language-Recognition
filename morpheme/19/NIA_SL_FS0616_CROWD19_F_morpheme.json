@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_bkyu0207/NIA_SL_FS0616_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0616_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.88,
+            "end": 4.409,
+            "attributes": [
+                {
+                    "name": "평화로"
+                }
+            ]
+        }
+    ]
+}

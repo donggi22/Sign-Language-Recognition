@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0071/NIA_SL_FS0495_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0495_CROWD18_F.mp4",
+        "duration": 15.784,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.399,
+            "end": 9.405,
+            "attributes": [
+                {
+                    "name": "유엔빌리지길"
+                }
+            ]
+        }
+    ]
+}

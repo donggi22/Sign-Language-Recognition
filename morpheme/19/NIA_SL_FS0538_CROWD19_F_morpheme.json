@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_sjim0179/NIA_SL_FS0538_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0538_CROWD19_F.mp4",
+        "duration": 8.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.422,
+            "end": 4.539,
+            "attributes": [
+                {
+                    "name": "장터길"
+                }
+            ]
+        }
+    ]
+}

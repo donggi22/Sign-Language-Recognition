@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0079/NIA_SL_FS0501_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0501_CROWD18_F.mp4",
+        "duration": 10.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.405,
+            "end": 7.734,
+            "attributes": [
+                {
+                    "name": "은평터널로"
+                }
+            ]
+        }
+    ]
+}

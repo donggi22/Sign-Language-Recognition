@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_yhjeon0036/NIA_SL_FS0296_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0296_CROWD18_F.mp4",
+        "duration": 7.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.116,
+            "end": 6.221,
+            "attributes": [
+                {
+                    "name": "서강대길"
+                }
+            ]
+        }
+    ]
+}

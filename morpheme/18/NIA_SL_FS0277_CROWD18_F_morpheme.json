@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0161/NIA_SL_FS0277_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0277_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.849,
+            "end": 5.557,
+            "attributes": [
+                {
+                    "name": "삼청로"
+                }
+            ]
+        }
+    ]
+}

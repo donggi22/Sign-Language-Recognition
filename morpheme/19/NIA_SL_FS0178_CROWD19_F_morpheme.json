@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0156/NIA_SL_FS0178_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0178_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.939,
+            "end": 3.645,
+            "attributes": [
+                {
+                    "name": "만양로"
+                }
+            ]
+        }
+    ]
+}

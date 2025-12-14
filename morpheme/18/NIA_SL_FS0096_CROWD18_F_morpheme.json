@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0023/NIA_SL_FS0096_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0096_CROWD18_F.mp4",
+        "duration": 15.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.001,
+            "end": 10.982,
+            "attributes": [
+                {
+                    "name": "남대문시장길"
+                }
+            ]
+        }
+    ]
+}

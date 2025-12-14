@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0173/NIA_SL_FS0142_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0142_CROWD18_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 4.891,
+            "attributes": [
+                {
+                    "name": "독산로"
+                }
+            ]
+        }
+    ]
+}

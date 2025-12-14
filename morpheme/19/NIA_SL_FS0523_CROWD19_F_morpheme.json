@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0065/NIA_SL_FS0523_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0523_CROWD19_F.mp4",
+        "duration": 10.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.909,
+            "end": 8.708,
+            "attributes": [
+                {
+                    "name": "자양강변길"
+                }
+            ]
+        }
+    ]
+}

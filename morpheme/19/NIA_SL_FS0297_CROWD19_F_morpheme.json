@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0172/NIA_SL_FS0297_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0297_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.228,
+            "end": 4.357,
+            "attributes": [
+                {
+                    "name": "서강로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0145/NIA_SL_FS0334_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0334_CROWD19_F.mp4",
+        "duration": 8.034,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.16,
+            "end": 5.724,
+            "attributes": [
+                {
+                    "name": "성수이로"
+                }
+            ]
+        }
+    ]
+}

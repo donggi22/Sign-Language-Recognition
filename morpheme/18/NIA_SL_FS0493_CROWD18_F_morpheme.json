@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0068/NIA_SL_FS0493_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0493_CROWD18_F.mp4",
+        "duration": 10.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.348,
+            "end": 7.448,
+            "attributes": [
+                {
+                    "name": "위례중앙로"
+                }
+            ]
+        }
+    ]
+}

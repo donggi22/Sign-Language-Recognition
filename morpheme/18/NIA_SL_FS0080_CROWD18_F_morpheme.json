@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0004/NIA_SL_FS0080_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0080_CROWD18_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.11,
+            "end": 7.932,
+            "attributes": [
+                {
+                    "name": "금호산길"
+                }
+            ]
+        }
+    ]
+}

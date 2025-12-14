@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_bkyu0202/NIA_SL_FS0609_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0609_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.881,
+            "end": 5.081,
+            "attributes": [
+                {
+                    "name": "토성로"
+                }
+            ]
+        }
+    ]
+}

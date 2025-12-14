@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0021/NIA_SL_FS0165_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0165_CROWD18_F.mp4",
+        "duration": 7.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.715,
+            "end": 4.714,
+            "attributes": [
+                {
+                    "name": "뚝섬로"
+                }
+            ]
+        }
+    ]
+}

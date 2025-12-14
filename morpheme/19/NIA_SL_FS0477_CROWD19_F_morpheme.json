@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0090/NIA_SL_FS0477_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0477_CROWD19_F.mp4",
+        "duration": 7.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.02,
+            "end": 5.618,
+            "attributes": [
+                {
+                    "name": "원신길"
+                }
+            ]
+        }
+    ]
+}

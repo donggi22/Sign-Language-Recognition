@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_bkyu0208/NIA_SL_FS0618_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0618_CROWD19_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.958,
+            "end": 5.546,
+            "attributes": [
+                {
+                    "name": "포은로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0059/NIA_SL_FS0486_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0486_CROWD19_F.mp4",
+        "duration": 7.584,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.034,
+            "end": 4.556,
+            "attributes": [
+                {
+                    "name": "위례대로"
+                }
+            ]
+        }
+    ]
+}

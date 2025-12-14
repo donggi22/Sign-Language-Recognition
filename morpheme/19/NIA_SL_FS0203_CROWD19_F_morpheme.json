@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0033/NIA_SL_FS0203_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0203_CROWD19_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.506,
+            "end": 7.582,
+            "attributes": [
+                {
+                    "name": "무수막갈"
+                }
+            ]
+        }
+    ]
+}

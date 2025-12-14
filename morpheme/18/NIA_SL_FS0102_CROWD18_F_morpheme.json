@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0030/NIA_SL_FS0102_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0102_CROWD18_F.mp4",
+        "duration": 7.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.037,
+            "end": 4.413,
+            "attributes": [
+                {
+                    "name": "노해로"
+                }
+            ]
+        }
+    ]
+}

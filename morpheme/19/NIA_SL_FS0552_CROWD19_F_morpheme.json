@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0144/NIA_SL_FS0552_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0552_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.331,
+            "end": 5.15,
+            "attributes": [
+                {
+                    "name": "종암로"
+                }
+            ]
+        }
+    ]
+}

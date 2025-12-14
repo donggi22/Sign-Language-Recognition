@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0075/NIA_SL_FS0467_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0467_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.085,
+            "end": 6.2,
+            "attributes": [
+                {
+                    "name": "용마산로"
+                }
+            ]
+        }
+    ]
+}

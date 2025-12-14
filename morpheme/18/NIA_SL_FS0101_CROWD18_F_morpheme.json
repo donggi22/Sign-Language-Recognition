@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0029/NIA_SL_FS0101_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0101_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.085,
+            "end": 5.297,
+            "attributes": [
+                {
+                    "name": "노원로"
+                }
+            ]
+        }
+    ]
+}

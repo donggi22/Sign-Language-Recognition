@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_bkyu0025/NIA_SL_FS0023_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0023_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.465,
+            "end": 5.184,
+            "attributes": [
+                {
+                    "name": "개봉로"
+                }
+            ]
+        }
+    ]
+}

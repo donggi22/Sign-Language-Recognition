@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0140/NIA_SL_FS0157_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0157_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.96,
+            "end": 4.915,
+            "attributes": [
+                {
+                    "name": "동작대로"
+                }
+            ]
+        }
+    ]
+}

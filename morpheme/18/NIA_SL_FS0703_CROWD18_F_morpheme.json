@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0216/NIA_SL_FS0703_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0703_CROWD18_F.mp4",
+        "duration": 16,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.35,
+            "end": 8.696,
+            "attributes": [
+                {
+                    "name": "선정릉"
+                }
+            ]
+        }
+    ]
+}

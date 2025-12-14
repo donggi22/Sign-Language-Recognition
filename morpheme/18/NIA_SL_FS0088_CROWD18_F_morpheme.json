@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0013/NIA_SL_FS0088_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0088_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.314,
+            "end": 7.411,
+            "attributes": [
+                {
+                    "name": "낙산길"
+                }
+            ]
+        }
+    ]
+}

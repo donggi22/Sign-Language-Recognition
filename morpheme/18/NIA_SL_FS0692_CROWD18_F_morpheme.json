@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0126/NIA_SL_FS0692_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0692_CROWD18_F.mp4",
+        "duration": 15.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.996,
+            "end": 8.578,
+            "attributes": [
+                {
+                    "name": "동대문디자인플라자"
+                }
+            ]
+        }
+    ]
+}

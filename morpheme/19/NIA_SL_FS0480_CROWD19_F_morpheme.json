@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0050/NIA_SL_FS0480_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0480_CROWD19_F.mp4",
+        "duration": 7.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.002,
+            "end": 4.395,
+            "attributes": [
+                {
+                    "name": "월계로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0027/NIA_SL_FS0063_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0063_CROWD18_F.mp4",
+        "duration": 7.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.231,
+            "end": 4.961,
+            "attributes": [
+                {
+                    "name": "구룡길"
+                }
+            ]
+        }
+    ]
+}

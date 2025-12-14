@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0217/NIA_SL_FS0705_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0705_CROWD18_F.mp4",
+        "duration": 16,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.479,
+            "end": 10.893,
+            "attributes": [
+                {
+                    "name": "송파나루공원"
+                }
+            ]
+        }
+    ]
+}

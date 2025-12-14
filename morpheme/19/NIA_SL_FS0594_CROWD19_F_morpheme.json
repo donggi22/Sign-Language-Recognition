@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0075/NIA_SL_FS0594_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0594_CROWD19_F.mp4",
+        "duration": 10.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.478,
+            "end": 8.171,
+            "attributes": [
+                {
+                    "name": "초록마을로"
+                }
+            ]
+        }
+    ]
+}

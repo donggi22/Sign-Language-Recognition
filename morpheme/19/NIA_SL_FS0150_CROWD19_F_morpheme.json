@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0001/NIA_SL_FS0150_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0150_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.679,
+            "end": 5.419,
+            "attributes": [
+                {
+                    "name": "동망산길"
+                }
+            ]
+        }
+    ]
+}

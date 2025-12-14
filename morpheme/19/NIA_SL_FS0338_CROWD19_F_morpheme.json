@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0148/NIA_SL_FS0338_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0338_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.05,
+            "end": 5.567,
+            "attributes": [
+                {
+                    "name": "성중길"
+                }
+            ]
+        }
+    ]
+}

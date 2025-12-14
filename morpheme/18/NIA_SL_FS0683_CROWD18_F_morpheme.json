@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0205/NIA_SL_FS0683_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0683_CROWD18_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.685,
+            "end": 7.821,
+            "attributes": [
+                {
+                    "name": "낙산공원"
+                }
+            ]
+        }
+    ]
+}

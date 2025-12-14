@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0177/NIA_SL_FS0392_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0392_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.943,
+            "end": 6.099,
+            "attributes": [
+                {
+                    "name": "신촌역로"
+                }
+            ]
+        }
+    ]
+}

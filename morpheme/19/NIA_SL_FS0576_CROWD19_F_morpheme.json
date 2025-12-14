@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0050/NIA_SL_FS0576_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0576_CROWD19_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.671,
+            "end": 8.403,
+            "attributes": [
+                {
+                    "name": "창포원로"
+                }
+            ]
+        }
+    ]
+}

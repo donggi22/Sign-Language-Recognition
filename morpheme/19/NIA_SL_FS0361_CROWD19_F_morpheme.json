@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0160/NIA_SL_FS0361_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0361_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.075,
+            "end": 6.191,
+            "attributes": [
+                {
+                    "name": "수락산로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_gdchoi0185/NIA_SL_FS0728_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0728_CROWD18_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.131,
+            "end": 7.309,
+            "attributes": [
+                {
+                    "name": "흥인지문"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0147/NIA_SL_FS0337_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0337_CROWD18_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.231,
+            "end": 5.274,
+            "attributes": [
+                {
+                    "name": "성암로"
+                }
+            ]
+        }
+    ]
+}

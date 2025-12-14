@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0089/NIA_SL_FS0604_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0604_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.593,
+            "end": 6.347,
+            "attributes": [
+                {
+                    "name": "탑골로"
+                }
+            ]
+        }
+    ]
+}

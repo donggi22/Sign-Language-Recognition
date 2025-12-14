@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0105/NIA_SL_FS0736_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0736_CROWD18_F.mp4",
+        "duration": 7.684,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.138,
+            "end": 4.485,
+            "attributes": [
+                {
+                    "name": "군자"
+                }
+            ]
+        }
+    ]
+}

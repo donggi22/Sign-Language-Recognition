@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0078/NIA_SL_FS0532_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0532_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.113,
+            "end": 4.129,
+            "attributes": [
+                {
+                    "name": "장문로"
+                }
+            ]
+        }
+    ]
+}

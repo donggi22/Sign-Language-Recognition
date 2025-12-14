@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0104/NIA_SL_FS0615_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0615_CROWD18_F.mp4",
+        "duration": 10.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.969,
+            "end": 8.762,
+            "attributes": [
+                {
+                    "name": "평창문화로"
+                }
+            ]
+        }
+    ]
+}

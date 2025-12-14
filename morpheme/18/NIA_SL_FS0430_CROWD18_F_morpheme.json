@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0156/NIA_SL_FS0430_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0430_CROWD18_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.965,
+            "end": 5.401,
+            "attributes": [
+                {
+                    "name": "여의서로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_emyou0089/NIA_SL_FS0358_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0358_CROWD18_F.mp4",
+        "duration": 7.784,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.22,
+            "end": 5.716,
+            "attributes": [
+                {
+                    "name": "송죽길"
+                }
+            ]
+        }
+    ]
+}

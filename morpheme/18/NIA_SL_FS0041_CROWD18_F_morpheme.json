@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0176/NIA_SL_FS0041_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0041_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.744,
+            "end": 5.555,
+            "attributes": [
+                {
+                    "name": "고려대로"
+                }
+            ]
+        }
+    ]
+}

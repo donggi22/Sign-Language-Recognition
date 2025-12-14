@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0064/NIA_SL_FS0490_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0490_CROWD19_F.mp4",
+        "duration": 7.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.007,
+            "end": 5.739,
+            "attributes": [
+                {
+                    "name": "위례송파로"
+                }
+            ]
+        }
+    ]
+}

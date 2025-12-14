@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0022/NIA_SL_FS0166_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0166_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.783,
+            "end": 5.652,
+            "attributes": [
+                {
+                    "name": "마곡동로"
+                }
+            ]
+        }
+    ]
+}

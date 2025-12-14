@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0025/NIA_SL_FS0227_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0227_CROWD18_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.051,
+            "end": 6.822,
+            "attributes": [
+                {
+                    "name": "백련산로"
+                }
+            ]
+        }
+    ]
+}

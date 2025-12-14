@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0043/NIA_SL_FS0075_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0075_CROWD18_F.mp4",
+        "duration": 10.784,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.971,
+            "end": 8.736,
+            "attributes": [
+                {
+                    "name": "금낭화로"
+                }
+            ]
+        }
+    ]
+}

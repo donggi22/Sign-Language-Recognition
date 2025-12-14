@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0123/NIA_SL_FS0629_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0629_CROWD18_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.044,
+            "end": 7.594,
+            "attributes": [
+                {
+                    "name": "한강난지로"
+                }
+            ]
+        }
+    ]
+}

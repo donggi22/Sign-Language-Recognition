@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_jhhan0090/NIA_SL_FS0447_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0447_CROWD19_F.mp4",
+        "duration": 10.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.656,
+            "end": 8.702,
+            "attributes": [
+                {
+                    "name": "영천시장길"
+                }
+            ]
+        }
+    ]
+}

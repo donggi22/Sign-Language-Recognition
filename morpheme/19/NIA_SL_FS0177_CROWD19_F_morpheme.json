@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0155/NIA_SL_FS0177_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0177_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.585,
+            "end": 4.274,
+            "attributes": [
+                {
+                    "name": "만리재로"
+                }
+            ]
+        }
+    ]
+}

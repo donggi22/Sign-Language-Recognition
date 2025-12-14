@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0092/NIA_SL_FS0639_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0639_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.836,
+            "end": 4.251,
+            "attributes": [
+                {
+                    "name": "행당로"
+                }
+            ]
+        }
+    ]
+}

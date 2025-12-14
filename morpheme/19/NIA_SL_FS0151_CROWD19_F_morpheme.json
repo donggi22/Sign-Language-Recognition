@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0003/NIA_SL_FS0151_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0151_CROWD19_F.mp4",
+        "duration": 10.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.918,
+            "end": 6.123,
+            "attributes": [
+                {
+                    "name": "동부간선로"
+                }
+            ]
+        }
+    ]
+}

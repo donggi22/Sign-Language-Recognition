@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0056/NIA_SL_FS0395_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0395_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.998,
+            "end": 5.967,
+            "attributes": [
+                {
+                    "name": "신흥말길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+mediapipe==0.10.9
+opencv-python==4.8.1.78
+numpy==1.24.3
+pandas==2.1.4
+matplotlib==3.8.2
+scikit-learn==1.3.2
+pillow==10.1.0
+streamlit-option-menu==0.4.0
+torch==2.9.1

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_rhkim0153/NIA_SL_FS0424_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0424_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.245,
+            "end": 4.187,
+            "attributes": [
+                {
+                    "name": "언주로"
+                }
+            ]
+        }
+    ]
+}

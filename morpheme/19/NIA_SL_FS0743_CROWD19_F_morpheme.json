@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0116/NIA_SL_FS0743_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0743_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.965,
+            "end": 3.436,
+            "attributes": [
+                {
+                    "name": "대림"
+                }
+            ]
+        }
+    ]
+}

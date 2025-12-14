@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0075/NIA_SL_FS0498_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0498_CROWD18_F.mp4",
+        "duration": 7.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.277,
+            "end": 5.995,
+            "attributes": [
+                {
+                    "name": "율곡로"
+                }
+            ]
+        }
+    ]
+}

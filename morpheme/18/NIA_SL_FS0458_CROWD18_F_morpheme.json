@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0062/NIA_SL_FS0458_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0458_CROWD18_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.368,
+            "end": 8.149,
+            "attributes": [
+                {
+                    "name": "와룡공원길"
+                }
+            ]
+        }
+    ]
+}

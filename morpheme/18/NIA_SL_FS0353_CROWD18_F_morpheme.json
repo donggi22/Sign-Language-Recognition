@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_emyou0081/NIA_SL_FS0353_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0353_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.614,
+            "end": 6.488,
+            "attributes": [
+                {
+                    "name": "송림길"
+                }
+            ]
+        }
+    ]
+}

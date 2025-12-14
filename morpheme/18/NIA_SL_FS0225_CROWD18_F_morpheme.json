@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0022/NIA_SL_FS0225_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0225_CROWD18_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.581,
+            "end": 6.972,
+            "attributes": [
+                {
+                    "name": "방화동로"
+                }
+            ]
+        }
+    ]
+}

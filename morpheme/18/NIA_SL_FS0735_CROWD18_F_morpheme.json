@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0104/NIA_SL_FS0735_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0735_CROWD18_F.mp4",
+        "duration": 7.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.078,
+            "end": 3.893,
+            "attributes": [
+                {
+                    "name": "교대"
+                }
+            ]
+        }
+    ]
+}

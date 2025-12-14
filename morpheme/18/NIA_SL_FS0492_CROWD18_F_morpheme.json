@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0067/NIA_SL_FS0492_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0492_CROWD18_F.mp4",
+        "duration": 10.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.55,
+            "end": 8.18,
+            "attributes": [
+                {
+                    "name": "위례순환로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_bkyu0201/NIA_SL_FS0608_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0608_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.03,
+            "end": 4.888,
+            "attributes": [
+                {
+                    "name": "테헤란로"
+                }
+            ]
+        }
+    ]
+}

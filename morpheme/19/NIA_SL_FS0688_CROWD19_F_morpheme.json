@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0121/NIA_SL_FS0688_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0688_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.999,
+            "end": 5.114,
+            "attributes": [
+                {
+                    "name": "덕수궁"
+                }
+            ]
+        }
+    ]
+}

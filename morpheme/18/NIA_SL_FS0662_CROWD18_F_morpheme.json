@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0126/NIA_SL_FS0662_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0662_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.392,
+            "end": 4.019,
+            "attributes": [
+                {
+                    "name": "회기로"
+                }
+            ]
+        }
+    ]
+}

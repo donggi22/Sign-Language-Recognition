@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_bkyu0049/NIA_SL_FS0304_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0304_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.057,
+            "end": 5.559,
+            "attributes": [
+                {
+                    "name": "서빙고로"
+                }
+            ]
+        }
+    ]
+}

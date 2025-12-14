@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_swlee0075/NIA_SL_FS0562_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0562_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.994,
+            "end": 4.23,
+            "attributes": [
+                {
+                    "name": "증가로"
+                }
+            ]
+        }
+    ]
+}

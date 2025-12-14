@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0173/NIA_SL_FS0037_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0037_CROWD19_F.mp4",
+        "duration": 10.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.748,
+            "end": 7.148,
+            "attributes": [
+                {
+                    "name": "경희궁길"
+                }
+            ]
+        }
+    ]
+}

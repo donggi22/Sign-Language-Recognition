@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0221/NIA_SL_FS0712_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0712_CROWD18_F.mp4",
+        "duration": 7.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.226,
+            "end": 5.092,
+            "attributes": [
+                {
+                    "name": "이태원"
+                }
+            ]
+        }
+    ]
+}

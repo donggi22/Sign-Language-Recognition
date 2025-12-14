@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0072/NIA_SL_FS0592_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0592_CROWD19_F.mp4",
+        "duration": 7.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.539,
+            "end": 5.863,
+            "attributes": [
+                {
+                    "name": "청파로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_hwlee0030/NIA_SL_FS0137_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0137_CROWD18_F.mp4",
+        "duration": 7.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.895,
+            "end": 4.825,
+            "attributes": [
+                {
+                    "name": "도영로"
+                }
+            ]
+        }
+    ]
+}

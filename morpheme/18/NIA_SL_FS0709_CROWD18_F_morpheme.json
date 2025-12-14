@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_emyou0219/NIA_SL_FS0709_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0709_CROWD18_F.mp4",
+        "duration": 11,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.413,
+            "end": 9.131,
+            "attributes": [
+                {
+                    "name": "예술의전당"
+                }
+            ]
+        }
+    ]
+}

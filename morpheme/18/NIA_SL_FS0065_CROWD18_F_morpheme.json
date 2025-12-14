@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0030/NIA_SL_FS0065_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0065_CROWD18_F.mp4",
+        "duration": 10.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.328,
+            "end": 6.182,
+            "attributes": [
+                {
+                    "name": "구의강변로"
+                }
+            ]
+        }
+    ]
+}

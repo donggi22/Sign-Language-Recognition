@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0180/NIA_SL_FS0223_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0223_CROWD19_F.mp4",
+        "duration": 8.05,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.325,
+            "end": 5.803,
+            "attributes": [
+                {
+                    "name": "방학로"
+                }
+            ]
+        }
+    ]
+}

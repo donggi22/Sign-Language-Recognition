@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0071/NIA_SL_FS0527_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0527_CROWD19_F.mp4",
+        "duration": 7.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.1,
+            "end": 4.97,
+            "attributes": [
+                {
+                    "name": "자하문로"
+                }
+            ]
+        }
+    ]
+}

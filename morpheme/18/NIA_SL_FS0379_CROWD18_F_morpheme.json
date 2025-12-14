@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0077/NIA_SL_FS0379_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0379_CROWD18_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.815,
+            "end": 7.715,
+            "attributes": [
+                {
+                    "name": "신림동길"
+                }
+            ]
+        }
+    ]
+}

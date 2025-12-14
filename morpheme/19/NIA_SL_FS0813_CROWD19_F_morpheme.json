@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0202/NIA_SL_FS0813_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0813_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.114,
+            "end": 2.822,
+            "attributes": [
+                {
+                    "name": "1호선"
+                }
+            ]
+        }
+    ]
+}

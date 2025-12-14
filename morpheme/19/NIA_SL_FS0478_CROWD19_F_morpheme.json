@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0047/NIA_SL_FS0478_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0478_CROWD19_F.mp4",
+        "duration": 7.617,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.974,
+            "end": 4.51,
+            "attributes": [
+                {
+                    "name": "원터길"
+                }
+            ]
+        }
+    ]
+}

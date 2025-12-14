@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0100/NIA_SL_FS0674_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0674_CROWD19_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.214,
+            "end": 8.624,
+            "attributes": [
+                {
+                    "name": "N서울타워"
+                }
+            ]
+        }
+    ]
+}

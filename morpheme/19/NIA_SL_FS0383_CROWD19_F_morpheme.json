@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0083/NIA_SL_FS0383_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0383_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.113,
+            "end": 4.529,
+            "attributes": [
+                {
+                    "name": "신사로"
+                }
+            ]
+        }
+    ]
+}

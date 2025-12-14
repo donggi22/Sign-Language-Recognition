@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_hwlee0130/NIA_SL_FS0723_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0723_CROWD19_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.106,
+            "end": 8.303,
+            "attributes": [
+                {
+                    "name": "하늘공원"
+                }
+            ]
+        }
+    ]
+}

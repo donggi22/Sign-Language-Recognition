@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0078/NIA_SL_FS0469_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0469_CROWD19_F.mp4",
+        "duration": 7.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.844,
+            "end": 4.853,
+            "attributes": [
+                {
+                    "name": "우마길"
+                }
+            ]
+        }
+    ]
+}

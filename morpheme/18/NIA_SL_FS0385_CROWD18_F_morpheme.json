@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0086/NIA_SL_FS0385_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0385_CROWD18_F.mp4",
+        "duration": 7.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.975,
+            "end": 5.617,
+            "attributes": [
+                {
+                    "name": "신우길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0081/NIA_SL_FS0534_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0534_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.987,
+            "end": 6.304,
+            "attributes": [
+                {
+                    "name": "장안벚꽃로"
+                }
+            ]
+        }
+    ]
+}

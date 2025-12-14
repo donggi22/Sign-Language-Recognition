@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0161/NIA_SL_FS0025_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0025_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.084,
+            "end": 4.099,
+            "attributes": [
+                {
+                    "name": "개포로"
+                }
+            ]
+        }
+    ]
+}

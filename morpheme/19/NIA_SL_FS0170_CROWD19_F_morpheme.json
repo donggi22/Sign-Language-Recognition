@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_jhhan0028/NIA_SL_FS0170_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0170_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.219,
+            "end": 6.136,
+            "attributes": [
+                {
+                    "name": "마른내로"
+                }
+            ]
+        }
+    ]
+}

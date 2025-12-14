@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0029/NIA_SL_FS0064_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0064_CROWD18_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.278,
+            "end": 4.721,
+            "attributes": [
+                {
+                    "name": "구암길"
+                }
+            ]
+        }
+    ]
+}

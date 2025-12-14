@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0139/NIA_SL_FS0003_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0003_CROWD19_F.mp4",
+        "duration": 10.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.92,
+            "end": 8.858,
+            "attributes": [
+                {
+                    "name": "가래여울길"
+                }
+            ]
+        }
+    ]
+}

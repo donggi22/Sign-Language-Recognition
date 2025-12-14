@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0056/NIA_SL_FS0454_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0454_CROWD18_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.557,
+            "end": 7.881,
+            "attributes": [
+                {
+                    "name": "오패산로"
+                }
+            ]
+        }
+    ]
+}

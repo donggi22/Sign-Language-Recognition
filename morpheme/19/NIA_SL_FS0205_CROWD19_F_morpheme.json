@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0036/NIA_SL_FS0205_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0205_CROWD19_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.419,
+            "end": 7.813,
+            "attributes": [
+                {
+                    "name": "무학봉길"
+                }
+            ]
+        }
+    ]
+}

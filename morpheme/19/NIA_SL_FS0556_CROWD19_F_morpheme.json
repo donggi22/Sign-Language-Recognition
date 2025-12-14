@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0147/NIA_SL_FS0556_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0556_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.331,
+            "end": 4.687,
+            "attributes": [
+                {
+                    "name": "중대로"
+                }
+            ]
+        }
+    ]
+}

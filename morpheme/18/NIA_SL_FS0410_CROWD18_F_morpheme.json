@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0077/NIA_SL_FS0410_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0410_CROWD18_F.mp4",
+        "duration": 10.834,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.25,
+            "end": 7.518,
+            "attributes": [
+                {
+                    "name": "약령중앙로"
+                }
+            ]
+        }
+    ]
+}

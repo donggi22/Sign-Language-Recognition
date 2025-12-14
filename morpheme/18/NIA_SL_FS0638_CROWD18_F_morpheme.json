@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0091/NIA_SL_FS0638_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0638_CROWD18_F.mp4",
+        "duration": 7.817,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.11,
+            "end": 4.79,
+            "attributes": [
+                {
+                    "name": "해등로"
+                }
+            ]
+        }
+    ]
+}

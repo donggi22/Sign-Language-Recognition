@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0038/NIA_SL_FS0234_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0234_CROWD19_F.mp4",
+        "duration": 10.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.257,
+            "end": 6.596,
+            "attributes": [
+                {
+                    "name": "범안로"
+                }
+            ]
+        }
+    ]
+}

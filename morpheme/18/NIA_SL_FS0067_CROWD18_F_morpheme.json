@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_emyou0033/NIA_SL_FS0067_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0067_CROWD18_F.mp4",
+        "duration": 7.734,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.313,
+            "end": 4.241,
+            "attributes": [
+                {
+                    "name": "구일로"
+                }
+            ]
+        }
+    ]
+}

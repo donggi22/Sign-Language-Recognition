@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0031/NIA_SL_FS0202_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0202_CROWD18_F.mp4",
+        "duration": 7.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.914,
+            "end": 4.058,
+            "attributes": [
+                {
+                    "name": "무교로"
+                }
+            ]
+        }
+    ]
+}

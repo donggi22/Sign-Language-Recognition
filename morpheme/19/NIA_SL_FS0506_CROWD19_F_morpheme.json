@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0087/NIA_SL_FS0506_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0506_CROWD19_F.mp4",
+        "duration": 7.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.043,
+            "end": 4.458,
+            "attributes": [
+                {
+                    "name": "응암로"
+                }
+            ]
+        }
+    ]
+}

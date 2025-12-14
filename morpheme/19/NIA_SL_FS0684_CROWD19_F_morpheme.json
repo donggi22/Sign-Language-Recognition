@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0115/NIA_SL_FS0684_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0684_CROWD19_F.mp4",
+        "duration": 10.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.277,
+            "end": 5.558,
+            "attributes": [
+                {
+                    "name": "난지캠핑장"
+                }
+            ]
+        }
+    ]
+}

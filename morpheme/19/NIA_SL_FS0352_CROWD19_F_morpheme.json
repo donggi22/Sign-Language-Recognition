@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0156/NIA_SL_FS0352_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0352_CROWD19_F.mp4",
+        "duration": 8.117,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.032,
+            "end": 6.576,
+            "attributes": [
+                {
+                    "name": "송동길"
+                }
+            ]
+        }
+    ]
+}

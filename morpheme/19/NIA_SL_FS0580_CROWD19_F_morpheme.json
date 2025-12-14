@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0055/NIA_SL_FS0580_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0580_CROWD19_F.mp4",
+        "duration": 10.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.742,
+            "end": 7.877,
+            "attributes": [
+                {
+                    "name": "천호대로"
+                }
+            ]
+        }
+    ]
+}

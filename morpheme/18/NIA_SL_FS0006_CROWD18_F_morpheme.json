@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0142/NIA_SL_FS0006_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0006_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.847,
+            "end": 3.571,
+            "attributes": [
+                {
+                    "name": "가마산로"
+                }
+            ]
+        }
+    ]
+}

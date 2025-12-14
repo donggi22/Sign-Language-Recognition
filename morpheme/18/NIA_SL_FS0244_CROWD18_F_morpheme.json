@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_sjim0010/NIA_SL_FS0244_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0244_CROWD18_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.033,
+            "end": 5.742,
+            "attributes": [
+                {
+                    "name": "본마을길"
+                }
+            ]
+        }
+    ]
+}

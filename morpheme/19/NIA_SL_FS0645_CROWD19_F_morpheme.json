@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0101/NIA_SL_FS0645_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0645_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.99,
+            "end": 5.013,
+            "attributes": [
+                {
+                    "name": "형촌길"
+                }
+            ]
+        }
+    ]
+}

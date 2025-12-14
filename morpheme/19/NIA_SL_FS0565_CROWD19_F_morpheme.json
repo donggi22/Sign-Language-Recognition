@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_swlee0153/NIA_SL_FS0565_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0565_CROWD19_F.mp4",
+        "duration": 8.067,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.406,
+            "end": 4.505,
+            "attributes": [
+                {
+                    "name": "지봉로"
+                }
+            ]
+        }
+    ]
+}

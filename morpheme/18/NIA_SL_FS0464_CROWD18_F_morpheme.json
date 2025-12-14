@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0071/NIA_SL_FS0464_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0464_CROWD18_F.mp4",
+        "duration": 7.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.194,
+            "end": 5.738,
+            "attributes": [
+                {
+                    "name": "용답길"
+                }
+            ]
+        }
+    ]
+}

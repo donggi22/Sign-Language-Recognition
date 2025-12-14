@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0167/NIA_SL_FS0134_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0134_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.362,
+            "end": 5.918,
+            "attributes": [
+                {
+                    "name": "도봉산길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0061/NIA_SL_FS0584_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0584_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.736,
+            "end": 6.203,
+            "attributes": [
+                {
+                    "name": "청구로"
+                }
+            ]
+        }
+    ]
+}

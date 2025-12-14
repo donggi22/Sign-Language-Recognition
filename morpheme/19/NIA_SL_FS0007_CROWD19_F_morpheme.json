@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0143/NIA_SL_FS0007_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0007_CROWD19_F.mp4",
+        "duration": 7.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.288,
+            "end": 5.379,
+            "attributes": [
+                {
+                    "name": "가산로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0163/NIA_SL_FS0366_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0366_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.722,
+            "end": 5.334,
+            "attributes": [
+                {
+                    "name": "숙선옹주로"
+                }
+            ]
+        }
+    ]
+}

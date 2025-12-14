@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_yhjeon0059/NIA_SL_FS0583_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0583_CROWD19_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.352,
+            "end": 8.433,
+            "attributes": [
+                {
+                    "name": "청계천로"
+                }
+            ]
+        }
+    ]
+}

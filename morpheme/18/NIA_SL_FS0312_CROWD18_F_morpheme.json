@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_bkyu0062/NIA_SL_FS0312_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0312_CROWD18_F.mp4",
+        "duration": 7.634,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.107,
+            "end": 4.456,
+            "attributes": [
+                {
+                    "name": "서원길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0013/NIA_SL_FS0191_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0191_CROWD19_F.mp4",
+        "duration": 7.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.994,
+            "end": 5.864,
+            "attributes": [
+                {
+                    "name": "명지대길"
+                }
+            ]
+        }
+    ]
+}

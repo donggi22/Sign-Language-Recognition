@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0138/NIA_SL_FS0321_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0321_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.766,
+            "end": 4.401,
+            "attributes": [
+                {
+                    "name": "선유서로"
+                }
+            ]
+        }
+    ]
+}

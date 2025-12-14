@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_gdchoi0170/NIA_SL_FS0138_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0138_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.496,
+            "end": 4.872,
+            "attributes": [
+                {
+                    "name": "도화길"
+                }
+            ]
+        }
+    ]
+}

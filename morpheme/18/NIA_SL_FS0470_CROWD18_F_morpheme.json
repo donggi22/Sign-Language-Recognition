@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_moyu0080/NIA_SL_FS0470_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0470_CROWD18_F.mp4",
+        "duration": 7.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.908,
+            "end": 5.339,
+            "attributes": [
+                {
+                    "name": "우면산로"
+                }
+            ]
+        }
+    ]
+}

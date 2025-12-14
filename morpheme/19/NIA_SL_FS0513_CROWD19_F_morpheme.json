@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0051/NIA_SL_FS0513_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0513_CROWD19_F.mp4",
+        "duration": 7.6,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.011,
+            "end": 5.371,
+            "attributes": [
+                {
+                    "name": "이화장길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_jhhan0108/NIA_SL_FS0738_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0738_CROWD18_F.mp4",
+        "duration": 7.717,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.154,
+            "end": 4.335,
+            "attributes": [
+                {
+                    "name": "기흥"
+                }
+            ]
+        }
+    ]
+}

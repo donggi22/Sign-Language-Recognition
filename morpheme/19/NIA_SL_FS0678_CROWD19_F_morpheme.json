@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0106/NIA_SL_FS0678_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0678_CROWD19_F.mp4",
+        "duration": 7.9,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.108,
+            "end": 6.484,
+            "attributes": [
+                {
+                    "name": "관악산"
+                }
+            ]
+        }
+    ]
+}

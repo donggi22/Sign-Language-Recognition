@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0017/NIA_SL_FS0091_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0091_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.12,
+            "end": 6.175,
+            "attributes": [
+                {
+                    "name": "난계로"
+                }
+            ]
+        }
+    ]
+}

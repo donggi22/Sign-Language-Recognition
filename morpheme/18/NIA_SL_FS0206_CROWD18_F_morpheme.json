@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_moyu0038/NIA_SL_FS0206_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0206_CROWD18_F.mp4",
+        "duration": 7.667,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.36,
+            "end": 4.671,
+            "attributes": [
+                {
+                    "name": "문래로"
+                }
+            ]
+        }
+    ]
+}

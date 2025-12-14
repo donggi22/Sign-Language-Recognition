@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_rhkim0045/NIA_SL_FS0238_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0238_CROWD19_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.753,
+            "end": 6.664,
+            "attributes": [
+                {
+                    "name": "보광로"
+                }
+            ]
+        }
+    ]
+}

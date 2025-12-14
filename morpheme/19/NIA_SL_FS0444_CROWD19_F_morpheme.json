@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_jhhan0085/NIA_SL_FS0444_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0444_CROWD19_F.mp4",
+        "duration": 10.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.174,
+            "end": 7,
+            "attributes": [
+                {
+                    "name": "영등포로"
+                }
+            ]
+        }
+    ]
+}

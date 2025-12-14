@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0068/NIA_SL_FS0525_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0525_CROWD19_F.mp4",
+        "duration": 10.65,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.98,
+            "end": 8.026,
+            "attributes": [
+                {
+                    "name": "자양번영로"
+                }
+            ]
+        }
+    ]
+}

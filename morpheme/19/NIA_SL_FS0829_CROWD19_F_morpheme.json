@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0215/NIA_SL_FS0829_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0829_CROWD19_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.805,
+            "end": 2.019,
+            "attributes": [
+                {
+                    "name": "8명"
+                }
+            ]
+        }
+    ]
+}

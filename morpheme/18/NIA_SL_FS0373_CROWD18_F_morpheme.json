@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_moyu0166/NIA_SL_FS0373_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0373_CROWD18_F.mp4",
+        "duration": 8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.923,
+            "end": 7.537,
+            "attributes": [
+                {
+                    "name": "식유촌길"
+                }
+            ]
+        }
+    ]
+}

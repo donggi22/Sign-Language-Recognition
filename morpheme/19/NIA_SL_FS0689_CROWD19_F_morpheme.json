@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_gdchoi0122/NIA_SL_FS0689_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0689_CROWD19_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.107,
+            "end": 5.016,
+            "attributes": [
+                {
+                    "name": "도봉산"
+                }
+            ]
+        }
+    ]
+}

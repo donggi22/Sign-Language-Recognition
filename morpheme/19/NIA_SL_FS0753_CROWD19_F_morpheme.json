@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_gdchoi0199/NIA_SL_FS0753_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0753_CROWD19_F.mp4",
+        "duration": 8.1,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.912,
+            "end": 2.776,
+            "attributes": [
+                {
+                    "name": "미금"
+                }
+            ]
+        }
+    ]
+}

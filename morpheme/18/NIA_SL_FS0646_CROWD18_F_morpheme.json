@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_emyou0102/NIA_SL_FS0646_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0646_CROWD18_F.mp4",
+        "duration": 7.7,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.999,
+            "end": 4.987,
+            "attributes": [
+                {
+                    "name": "혜화로"
+                }
+            ]
+        }
+    ]
+}

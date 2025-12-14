@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0055/NIA_SL_FS0516_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0516_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.261,
+            "end": 5.895,
+            "attributes": [
+                {
+                    "name": "인왕산로"
+                }
+            ]
+        }
+    ]
+}

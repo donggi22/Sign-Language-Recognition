@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0119/NIA_SL_FS0626_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0626_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.941,
+            "end": 4.379,
+            "attributes": [
+                {
+                    "name": "하정로"
+                }
+            ]
+        }
+    ]
+}

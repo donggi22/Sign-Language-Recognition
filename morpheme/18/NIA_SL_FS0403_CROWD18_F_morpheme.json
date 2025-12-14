@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0067/NIA_SL_FS0403_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0403_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.303,
+            "end": 5.937,
+            "attributes": [
+                {
+                    "name": "안양천로"
+                }
+            ]
+        }
+    ]
+}

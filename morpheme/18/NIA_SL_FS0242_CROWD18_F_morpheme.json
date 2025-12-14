@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_sjim0007/NIA_SL_FS0242_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0242_CROWD18_F.mp4",
+        "duration": 7.934,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.137,
+            "end": 5.215,
+            "attributes": [
+                {
+                    "name": "보문사길"
+                }
+            ]
+        }
+    ]
+}

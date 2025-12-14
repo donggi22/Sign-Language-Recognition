@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_hwlee0084/NIA_SL_FS0415_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0415_CROWD18_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.175,
+            "end": 6.384,
+            "attributes": [
+                {
+                    "name": "양원역로"
+                }
+            ]
+        }
+    ]
+}

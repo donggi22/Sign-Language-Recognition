@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0054/NIA_SL_FS0483_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0483_CROWD19_F.mp4",
+        "duration": 7.767,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.93,
+            "end": 6.83,
+            "attributes": [
+                {
+                    "name": "월드컵북로"
+                }
+            ]
+        }
+    ]
+}

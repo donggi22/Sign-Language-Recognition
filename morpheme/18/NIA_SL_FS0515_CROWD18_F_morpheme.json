@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0054/NIA_SL_FS0515_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0515_CROWD18_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.949,
+            "end": 5.019,
+            "attributes": [
+                {
+                    "name": "인수봉로"
+                }
+            ]
+        }
+    ]
+}

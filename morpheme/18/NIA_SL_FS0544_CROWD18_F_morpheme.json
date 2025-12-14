@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_swlee0050/NIA_SL_FS0544_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0544_CROWD18_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.002,
+            "end": 4.621,
+            "attributes": [
+                {
+                    "name": "정릉로"
+                }
+            ]
+        }
+    ]
+}

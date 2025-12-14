@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_jhhan0146/NIA_SL_FS0252_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0252_CROWD19_F.mp4",
+        "duration": 8.017,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.028,
+            "end": 3.937,
+            "attributes": [
+                {
+                    "name": "부일로"
+                }
+            ]
+        }
+    ]
+}

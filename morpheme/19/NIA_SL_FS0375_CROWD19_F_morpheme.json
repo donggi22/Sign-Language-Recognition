@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_gdchoi0071/NIA_SL_FS0375_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0375_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.989,
+            "end": 5.31,
+            "attributes": [
+                {
+                    "name": "신내로"
+                }
+            ]
+        }
+    ]
+}

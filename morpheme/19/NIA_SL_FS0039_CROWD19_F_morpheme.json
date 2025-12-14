@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_bkyu0175/NIA_SL_FS0039_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0039_CROWD19_F.mp4",
+        "duration": 10.95,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.872,
+            "end": 6.221,
+            "attributes": [
+                {
+                    "name": "계동길"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_emyou0140/NIA_SL_FS0051_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0051_CROWD18_F.mp4",
+        "duration": 7.984,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.255,
+            "end": 5.816,
+            "attributes": [
+                {
+                    "name": "과천대로"
+                }
+            ]
+        }
+    ]
+}

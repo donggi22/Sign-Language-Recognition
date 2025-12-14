@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_yhjeon0039/NIA_SL_FS0298_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0298_CROWD19_F.mp4",
+        "duration": 7.917,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.857,
+            "end": 4.601,
+            "attributes": [
+                {
+                    "name": "서경로"
+                }
+            ]
+        }
+    ]
+}

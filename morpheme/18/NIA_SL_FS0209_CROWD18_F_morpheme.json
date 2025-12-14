@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1027_hwlee0173/NIA_SL_FS0209_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0209_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.282,
+            "end": 4.439,
+            "attributes": [
+                {
+                    "name": "문정로"
+                }
+            ]
+        }
+    ]
+}

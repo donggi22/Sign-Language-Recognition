@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1026_bkyu0098/NIA_SL_FS0611_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0611_CROWD18_F.mp4",
+        "duration": 7.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.23,
+            "end": 5.744,
+            "attributes": [
+                {
+                    "name": "통일로"
+                }
+            ]
+        }
+    ]
+}

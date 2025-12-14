@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0190/NIA_SL_FS0798_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0798_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.411,
+            "end": 3.071,
+            "attributes": [
+                {
+                    "name": "회기"
+                }
+            ]
+        }
+    ]
+}

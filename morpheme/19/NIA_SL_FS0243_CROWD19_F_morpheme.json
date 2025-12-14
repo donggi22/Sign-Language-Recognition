@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_sjim0008/NIA_SL_FS0243_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0243_CROWD19_F.mp4",
+        "duration": 10.867,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.25,
+            "end": 5.691,
+            "attributes": [
+                {
+                    "name": "복은길"
+                }
+            ]
+        }
+    ]
+}

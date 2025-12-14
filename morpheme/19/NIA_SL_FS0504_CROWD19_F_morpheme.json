@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_rhkim0084/NIA_SL_FS0504_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0504_CROWD19_F.mp4",
+        "duration": 7.75,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 0.978,
+            "end": 6.133,
+            "attributes": [
+                {
+                    "name": "은행정로"
+                }
+            ]
+        }
+    ]
+}

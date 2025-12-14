@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_sjim0072/NIA_SL_FS0528_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0528_CROWD19_F.mp4",
+        "duration": 7.65,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.083,
+            "end": 5.072,
+            "attributes": [
+                {
+                    "name": "잔다리로"
+                }
+            ]
+        }
+    ]
+}

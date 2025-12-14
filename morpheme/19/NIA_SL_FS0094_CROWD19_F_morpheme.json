@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1022_gdchoi0021/NIA_SL_FS0094_CROWD19_F.mp4",
+        "name": "NIA_SL_FS0094_CROWD19_F.mp4",
+        "duration": 7.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.115,
+            "end": 5.505,
+            "attributes": [
+                {
+                    "name": "난향길"
+                }
+            ]
+        }
+    ]
+}

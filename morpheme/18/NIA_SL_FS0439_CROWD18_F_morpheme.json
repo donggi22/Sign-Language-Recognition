@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_jhhan0077/NIA_SL_FS0439_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0439_CROWD18_F.mp4",
+        "duration": 10.85,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.256,
+            "end": 6.202,
+            "attributes": [
+                {
+                    "name": "연희로"
+                }
+            ]
+        }
+    ]
+}

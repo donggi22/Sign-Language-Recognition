@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1028_hwlee0187/NIA_SL_FS0795_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0795_CROWD18_F.mp4",
+        "duration": 7.967,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.08,
+            "end": 5.848,
+            "attributes": [
+                {
+                    "name": "태릉입구"
+                }
+            ]
+        }
+    ]
+}

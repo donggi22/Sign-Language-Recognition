@@ -1,0 +1,19 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1023_emyou0065/NIA_SL_FS0343_CROWD18_F.mp4",
+        "name": "NIA_SL_FS0343_CROWD18_F.mp4",
+        "duration": 7.8,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.279,
+            "end": 5.473,
+            "attributes": [
+                {
+                    "name": "세무서길"
+                }
+            ]
+        }
+    ]
+}
