@@ -290,7 +290,7 @@ class RealTimeSignRecognizer:
         # 모델을 통한 예측
         try:
             if features is None:
-                return "데이터 부족", 0.0
+                return "데이터 부족", 0.0, []
                 
             input_tensor = torch.tensor(features.reshape(1, 150, 411), dtype=torch.float32).to(self.device)
             
@@ -368,14 +368,19 @@ class RealTimeSignRecognizer:
                         self.last_prediction = result
                         self.last_confidence = confidence
                         self.last_prediction_time = current_time
-                        
+
+                        if self.detection_start_time is not None:
+                            detection_time = current_time - self.detection_start_time
+                        else:
+                            detection_time = 0.0
+
                         # 예측 이력에 추가
                         self.prediction_history.append({
                             'label': result,
                             'confidence': confidence,
                             'timestamp': current_time,
                             'sequence_length': len(self.current_sequence),
-                            'detection_time': current_time - self.detection_start_time
+                            'detection_time': current_time - detection_time
                         })
                         
                         # 최대 10개만 유지
