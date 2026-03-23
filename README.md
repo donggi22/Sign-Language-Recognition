@@ -8,7 +8,7 @@ conda create -n strweb python=3.11 -y
 conda activate strweb
 
 ## 프로젝트 디렉토리로 이동
-cd Sign-Language-Recognition-main
+cd Sign-Language-Recognition
 
 ## 필요한 패키지 설치
 pip install -r requirements.txt
