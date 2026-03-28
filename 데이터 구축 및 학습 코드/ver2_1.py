@@ -3,16 +3,16 @@ if __name__ == "__main__":
     print(f'torch.cuda.is_available(): {torch.cuda.is_available()}')
 
 import os
+import json
 import re
 from collections import Counter
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch.utils.data import Dataset, DataLoader, Subset
+from torch.utils.data import Dataset, DataLoader, WeightedRandomSampler
 from torch.nn.utils.rnn import pad_sequence
 import random
 from tqdm import tqdm
-from itertools import cycle
 
 torch.backends.cudnn.benchmark = True
 
@@ -25,6 +25,21 @@ def is_numeric_label(label):
     numeric_suffixes = ["회", "시간", "분", "시", "일", "월", "달", "년", "km", "명", "살", "호선"]
     if any(label.endswith(s) for s in numeric_suffixes): return True
     return False
+
+class FocalLoss(nn.Module):
+    def __init__(self, alpha=None, gamma=1.5, reduction='mean'): 
+        super(FocalLoss, self).__init__()
+        self.gamma = gamma
+        self.alpha = alpha
+        self.reduction = reduction
+
+    def forward(self, inputs, targets):
+        ce_loss = F.cross_entropy(inputs, targets, weight=self.alpha, reduction='none')
+        pt = torch.exp(-ce_loss)
+        focal_loss = (1 - pt) ** self.gamma * ce_loss
+        if self.reduction == 'mean': return focal_loss.mean()
+        elif self.reduction == 'sum': return focal_loss.sum()
+        else: return focal_loss
 
 class EarlyStopping:
     def __init__(self, patience=10, verbose=False, delta=0, path='best_ver2_1.pt'):
@@ -47,182 +62,213 @@ class EarlyStopping:
 def load_datasets(processed_dir='processed/', top_n_classes=994):
     def load_shards(split):
         shard_dir = os.path.join(processed_dir, split)
-        if not os.path.exists(shard_dir): return None, None
+        if not os.path.exists(shard_dir):
+            raise FileNotFoundError(f"데이터 디렉토리를 찾을 수 없습니다: {shard_dir}")
         all_p, all_l, all_r, all_f, all_lbl = [], [], [], [], []
-        for f in sorted(os.listdir(shard_dir)):
-            if not f.endswith('.pt'): continue
+        files = sorted([f for f in os.listdir(shard_dir) if f.endswith('.pt')])
+        if not files:
+            raise FileNotFoundError(f"디렉토리에 .pt 파일이 없습니다: {shard_dir}")
+        for f in files:
             s = torch.load(os.path.join(shard_dir, f))
             all_p.append(s['pose']); all_l.append(s['left_hand']); all_r.append(s['right_hand']); all_f.append(s['face'])
             all_lbl.extend([lbl.strip().split('\n')[0] for lbl in s['labels']])
         X = {'pose': torch.cat(all_p), 'left_hand': torch.cat(all_l), 'right_hand': torch.cat(all_r), 'face': torch.cat(all_f)}
         return X, all_lbl
-    (X_tr, y_tr_s), (X_vl, y_vl_s), (X_ts, y_ts_s) = load_shards('train'), load_shards('val'), load_shards('test')
+
+    try:
+        (X_tr, y_tr_s), (X_vl, y_vl_s), (X_ts, y_ts_s) = load_shards('train'), load_shards('val'), load_shards('test')
+    except FileNotFoundError as e:
+        print(f"\n[Error] 데이터 로딩 실패: {e}")
+        print(f"현재 설정된 BASE_DIR: {processed_dir}")
+        raise
     common = set(y_tr_s) & set(y_vl_s) & set(y_ts_s)
     top_labels = {lbl: i for i, (lbl, _) in enumerate(Counter(y_tr_s).most_common()) if lbl in common}
     top_labels = {lbl: i for i, lbl in enumerate(list(top_labels.keys())[:top_n_classes])}
+    
     def filter_data(X, y_s):
         mt = torch.tensor([top_labels.get(y, -1) for y in y_s], dtype=torch.long)
         mask = mt != -1
         return {k: v[mask] for k, v in X.items()}, mt[mask]
+    
     (X_tr, y_tr), (X_vl, y_vl), (X_ts, y_ts) = filter_data(X_tr, y_tr_s), filter_data(X_vl, y_vl_s), filter_data(X_ts, y_ts_s)
     return (X_tr, y_tr), (X_vl, y_vl), (X_ts, y_ts), top_labels
 
 class SignDataset(Dataset):
-    def __init__(self, X, y, label_map, augment=False):
-        self.X, self.y, self.label_map, self.augment = X, y, label_map, augment
+    def __init__(self, X, y, label_map, face_weight=2.0):
+        self.X, self.y, self.label_map = X, y, label_map
         self.idx_to_label = {v: k for k, v in label_map.items()}
+        self.face_weight = face_weight
         self.is_numeric = [is_numeric_label(self.idx_to_label[int(ly)]) for ly in y]
+        
     def __len__(self): return len(self.y)
+    
     def __getitem__(self, idx):
-        p, lh, rh, f = self.X['pose'][idx], self.X['left_hand'][idx], self.X['right_hand'][idx], self.X['face'][idx]
         is_num = self.is_numeric[idx]
-        feat = torch.cat([p, lh, rh, f * (0.5 if is_num else 3.0)], dim=1)
+        current_face_weight = self.face_weight * 0.5 if is_num else self.face_weight
+        
+        p, lh, rh, f = self.X['pose'][idx], self.X['left_hand'][idx], self.X['right_hand'][idx], self.X['face'][idx]
+        feat = torch.cat([p, lh, rh, f * current_face_weight], dim=1)
+        
+        # Double Normalization to ensure stability (Feature-wise + Global-ish)
+        feat = (feat - feat.mean(dim=0, keepdim=True)) / (feat.std(dim=0, keepdim=True) + 1e-8)
         feat = (feat - feat.mean()) / (feat.std() + 1e-8)
-        if self.augment:
-            if is_num: feat = self._apply_digit_augmentation(feat)
-            else: feat = self._apply_standard_augmentation(feat)
+        
         return feat.float(), int(self.y[idx]), int(is_num)
 
-    def _apply_digit_augmentation(self, f):
-        strategy = random.randint(0, 4)
-        if strategy == 1: # Speed Perturbation
-            scale = random.uniform(0.7, 1.3)
+class PreprocessedSignDataset(Dataset):
+    def __init__(self, dataset, split='train', augment=True):
+        self.dataset = dataset
+        self.split = split
+        self.augment = augment and split == 'train'
+        self.aug_factor = 6 if self.augment else 1
+
+    def __len__(self):
+        return len(self.dataset) * self.aug_factor
+
+    def __getitem__(self, idx):
+        orig_idx = idx % len(self.dataset)
+        aug_idx  = idx // len(self.dataset)
+        feat, label, is_num = self.dataset[orig_idx]
+        if self.augment:
+            feat = self._apply_augmentation(feat, aug_idx, is_num)
+        return feat, label, is_num
+
+    def _apply_augmentation(self, f, aug_idx, is_num):
+        if aug_idx == 0: return f
+        if aug_idx == 1: # Time Scaling
+            scale = random.uniform(0.85, 1.15)
             l = max(1, int(len(f) * scale))
             res = F.interpolate(f.transpose(0,1).unsqueeze(0), size=l, mode='linear', align_corners=True).squeeze(0).transpose(0,1)
-            return F.pad(res, (0,0,0,max(0,150-l)))[:150]
-        if strategy == 2: # Hand Jitter
-            jitter = torch.zeros_like(f); jitter[:, 75:201] = torch.randn(f.size(0), 126)*0.05
-            return f + jitter
-        if strategy == 3: # Frame Dropout
-            mask = torch.rand(f.size(0)) > 0.15
-            if mask.any(): return f[mask].repeat(2, 1)[:150]
+            if l < 150: res = F.pad(res, (0,0,0,150-l))
+            return res[:150]
+        if aug_idx == 2: # Noise
+            return f + torch.randn_like(f) * 0.02
+        if aug_idx == 3: # Frame Dropout (Strong for numeric)
+            p = 0.2 if is_num else 0.1
+            mask = torch.rand(f.size(0)) > p
+            if mask.any(): 
+                res = f[mask]
+                return F.interpolate(res.transpose(0,1).unsqueeze(0), size=150, mode='linear', align_corners=True).squeeze(0).transpose(0,1)
+        if aug_idx == 4: # Mirror
+            m = f.clone(); m[:, ::2] = -m[:, ::2]; return m
+        if aug_idx == 5: # Random Jitter
+            return f + torch.randn_like(f) * 0.04
         return f
 
-    def _apply_standard_augmentation(self, f):
-        strategy = random.randint(0, 3)
-        if strategy == 1: return f + torch.randn_like(f)*0.02
-        if strategy == 2: m = f.clone(); m[:, ::2] = -m[:, ::2]; return m
-        return f
+# --- 모델 구조 ---
 
-# --- 모델 구조 (Optimized Multi-Head) ---
-
-class TemporalExpert(nn.Module):
-    def __init__(self, in_dim, out_dim, dilation_max=8):
+class CrossModalAttention(nn.Module):
+    def __init__(self, pose_dim, hand_dim, face_dim, embed_dim=128, num_heads=4):
         super().__init__()
-        layers = []
-        d = 1
-        while d <= dilation_max:
-            layers.extend([nn.Conv1d(in_dim if d==1 else out_dim, out_dim, 3, padding=d, dilation=d), nn.BatchNorm1d(out_dim), nn.ReLU(), nn.Dropout1d(0.2)])
-            d *= 2
-        self.tcn = nn.Sequential(*layers)
-    def forward(self, x): return self.tcn(x)
+        self.pose_proj = nn.Linear(pose_dim, embed_dim)
+        self.hand_proj = nn.Linear(hand_dim, embed_dim)
+        self.face_proj = nn.Linear(face_dim, embed_dim)
+        self.attn_pose = nn.MultiheadAttention(embed_dim, num_heads)
+        self.attn_hand = nn.MultiheadAttention(embed_dim, num_heads)
+        self.norm_pose = nn.LayerNorm(embed_dim)
+        self.norm_hand = nn.LayerNorm(embed_dim)
+        self.dropout = nn.Dropout(0.1)
+        self.out_proj = nn.Linear(pose_dim + hand_dim + face_dim + embed_dim * 2, 384)
 
-class TaskSeparatedTCN(nn.Module):
+    def forward(self, p_f, lh_f, rh_f, f_f, is_numeric=None):
+        p = p_f.permute(2, 0, 1) # [T, B, 128]
+        h = torch.cat([lh_f, rh_f], dim=1).permute(2, 0, 1) # [T, B, 256]
+        f = f_f.permute(2, 0, 1) # [T, B, 256]
+        
+        p_emb, h_emb, f_emb = self.pose_proj(p), self.hand_proj(h), self.face_proj(f)
+        
+        ctx_p = torch.cat([h_emb, f_emb], 0)
+        a_p, _ = self.attn_pose(p_emb, ctx_p, ctx_p)
+        p_res = self.norm_pose(p_emb + self.dropout(a_p))
+        
+        ctx_h = torch.cat([p_emb, h_emb], 0)
+        a_h, _ = self.attn_hand(h_emb, ctx_h, ctx_h)
+        h_res = self.norm_hand(h_emb + self.dropout(a_h))
+        
+        if is_numeric is not None:
+            scale = 1.0 + is_numeric.unsqueeze(0).unsqueeze(-1).float() * 0.5
+            h_res = h_res * scale
+
+        fused = torch.cat([p.permute(1,0,2), h.permute(1,0,2), f.permute(1,0,2), 
+                          p_res.permute(1,0,2), h_res.permute(1,0,2)], 2)
+        fused = self.out_proj(fused)
+        return fused.permute(0, 2, 1), h_res.permute(1, 2, 0)
+
+class ModalityFusionModule(nn.Module):
+    def __init__(self, pose_dim=75, hand_dim=126, face_dim=210):
+        super().__init__()
+        self.p_enc = nn.Sequential(nn.Conv1d(pose_dim, 128, 3, padding=1), nn.BatchNorm1d(128), nn.ReLU())
+        self.lh_enc = nn.Sequential(nn.Conv1d(63, 128, 3, padding=1), nn.BatchNorm1d(128), nn.ReLU())
+        self.rh_enc = nn.Sequential(nn.Conv1d(63, 128, 3, padding=1), nn.BatchNorm1d(128), nn.ReLU())
+        self.f_enc = nn.Sequential(nn.Conv1d(face_dim, 256, 3, padding=1), nn.BatchNorm1d(256), nn.ReLU())
+        self.cross_attn = CrossModalAttention(128, 256, 256)
+
+    def forward(self, x, is_numeric=None):
+        p, lh, rh, f = x[:,:,:75], x[:,:,75:138], x[:,:,138:201], x[:,:,201:]
+        p_f = self.p_enc(p.transpose(1,2))
+        lh_f = self.lh_enc(lh.transpose(1,2))
+        rh_f = self.rh_enc(rh.transpose(1,2))
+        f_f = self.f_enc(f.transpose(1,2))
+        return self.cross_attn(p_f, lh_f, rh_f, f_f, is_numeric)
+
+class TCNClassifier(nn.Module):
     def __init__(self, num_classes):
         super().__init__()
-        self.p_enc = nn.Sequential(nn.Conv1d(75, 128, 3, padding=1), nn.BatchNorm1d(128), nn.ReLU())
-        self.h_enc = nn.Sequential(nn.Conv1d(126, 128, 3, padding=1), nn.BatchNorm1d(128), nn.ReLU())
-        self.f_enc = nn.Sequential(nn.Conv1d(210, 128, 3, padding=1), nn.BatchNorm1d(128), nn.ReLU())
-        
-        self.shared_tcn = TemporalExpert(384, 256, dilation_max=4)
-        self.type_head = nn.Sequential(nn.Linear(256, 128), nn.ReLU(), nn.Linear(128, 1))
-        
-        # [REINFORCED] Char Head with Expert
-        self.char_expert = TemporalExpert(256, 256, dilation_max=4)
-        self.char_head = nn.Sequential(nn.Dropout(0.5), nn.Linear(256, num_classes))
-        
-        # Digit Head (Heavy Duty)
-        self.digit_expert = TemporalExpert(256, 256, dilation_max=8)
-        self.digit_attn = nn.MultiheadAttention(256, 4)
-        self.digit_head = nn.Sequential(nn.Dropout(0.5), nn.Linear(256, num_classes))
-        
-        self.pool = nn.AdaptiveAvgPool1d(1)
+        self.fusion = ModalityFusionModule()
+        self.tcn = nn.ModuleList([nn.Conv1d(384, 384, 3, padding=d, dilation=d) for d in [1, 2, 4, 8]])
+        self.bn = nn.ModuleList([nn.BatchNorm1d(384) for _ in range(4)])
+        self.dropout_tcn = nn.Dropout(0.3)
+        self.attn_pool = nn.Linear(384, 1)
+        self.fc1 = nn.Linear(384, 256)
+        self.bn_fc1 = nn.BatchNorm1d(256)
+        self.fc2 = nn.Linear(256, num_classes)
+        self.hand_classifier = nn.Linear(128, num_classes)
+        self.numeric_classifier = nn.Sequential(nn.Linear(384, 64), nn.ReLU(), nn.Linear(64, 1))
 
-    def forward(self, x):
-        p = self.p_enc(x[:, :, :75].transpose(1,2))
-        h = self.h_enc(x[:, :, 75:201].transpose(1,2))
-        f = self.f_enc(x[:, :, 201:].transpose(1,2))
-        
-        shared = self.shared_tcn(torch.cat([p, h, f], 1))
-        global_feat = self.pool(shared).squeeze(-1)
-        type_logits = self.type_head(global_feat).squeeze(-1)
-        
-        # Char Path
-        c_feat = self.char_expert(shared)
-        c_final = self.pool(c_feat).squeeze(-1)
-        out_char = self.char_head(c_final)
-        
-        # Digit Path
-        d_feat = self.digit_expert(shared)
-        d_seq = d_feat.permute(2, 0, 1)
-        d_attn, _ = self.digit_attn(d_seq, d_seq, d_seq)
-        d_final = self.pool((d_seq + d_attn).permute(1, 2, 0)).squeeze(-1)
-        out_digit = self.digit_head(d_final)
-        
-        return out_digit, out_char, type_logits
+    def forward(self, x, is_numeric=None):
+        fused, hands = self.fusion(x, is_numeric)
+        for conv, bn in zip(self.tcn, self.bn):
+            res = fused
+            fused = F.relu(bn(conv(fused)))
+            fused = self.dropout_tcn(fused)
+            if fused.size(2) == res.size(2): fused = fused + res
+        weights = F.softmax(self.attn_pool(fused.transpose(1, 2)), dim=1)
+        x_p = (fused * weights.transpose(1, 2)).sum(dim=2)
+        num_logits = self.numeric_classifier(x_p).squeeze(-1)
+        m_feat = F.relu(self.bn_fc1(self.fc1(x_p)))
+        m_logits = self.fc2(F.dropout(m_feat, 0.5, self.training))
+        h_logits = self.hand_classifier(hands.mean(dim=2))
+        return m_logits + 0.3 * h_logits, num_logits
 
-# --- 학습 로직 (Re-Balanced Step) ---
+# --- 학습 로직 ---
 
-def train_epoch(model, d_loader, c_loader, criterion, optimizer, device, scaler, num_steps):
+def train_epoch(model, loader, criterion, optimizer, device, scaler):
     model.train(); tl, cor, tot = 0, 0, 0
-    d_iter, c_iter = cycle(d_loader), iter(c_loader)
     bin_crit = nn.BCEWithLogitsLoss()
-    
-    pbar = tqdm(range(num_steps), desc='Training')
-    for _ in pbar:
-        try: d_s, d_l, d_n = next(d_iter)
-        except StopIteration: d_iter = cycle(d_loader); d_s, d_l, d_n = next(d_iter)
-        try: c_s, c_l, c_n = next(c_iter)
-        except StopIteration: break 
-        
-        s, l, n = torch.cat([d_s, c_s]), torch.cat([d_l, c_l]), torch.cat([d_n, c_n])
+    for s, l, n in tqdm(loader, desc='Training'):
         s, l, n = s.to(device), l.to(device), n.to(device)
-        
         optimizer.zero_grad()
         with torch.amp.autocast('cuda'):
-            out_d, out_c, type_out = model(s)
-            
-            is_digit = (n > 0.5)
-            loss = 0
-            if is_digit.any(): 
-                loss += 0.8 * criterion(out_d[is_digit], l[is_digit]) # Slight lower weight for digit loss
-            if (~is_digit).any(): 
-                loss += 1.2 * criterion(out_c[~is_digit], l[~is_digit]) # Higher weight for char loss
-            loss += 0.5 * bin_crit(type_out, n)
-            
-        if torch.isnan(loss): continue
-
+            out, num_logits = model(s, is_numeric=n)
+            num_prob = torch.sigmoid(num_logits).detach()
+            sample_weight = 1.0 + 1.5 * num_prob
+            cls_loss = (F.cross_entropy(out, l, reduction='none') * sample_weight).mean()
+            num_loss = bin_crit(num_logits, n)
+            loss = cls_loss + 0.3 * num_loss
         scaler.scale(loss).backward()
-        scaler.unscale_(optimizer)
-        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
         scaler.step(optimizer); scaler.update()
-        
-        tl += loss.item(); tot += l.size(0)
-        # Threshold: 0.4 (Balanced bias)
-        is_num_pred = torch.sigmoid(type_out) > 0.4
-        final_pred = torch.where(is_num_pred, out_d.max(1)[1], out_c.max(1)[1])
-        cor += final_pred.eq(l).sum().item()
-        pbar.set_postfix({'loss': f'{tl/(pbar.n+1):.4f}', 'acc': f'{100.*cor/tot:.2f}%'})
-        
-    return tl/num_steps, 100.*cor/tot
+        tl += loss.item(); _, p = out.max(1); tot += l.size(0); cor += p.eq(l).sum().item()
+    return tl/len(loader), 100.*cor/tot
 
 def evaluate(model, loader, criterion, device):
     model.eval(); tl, c1, c5, tot = 0, 0, 0, 0
-    bin_crit = nn.BCEWithLogitsLoss()
     with torch.no_grad():
         for s, l, n in loader:
             s, l, n = s.to(device), l.to(device), n.to(device)
-            out_d, out_c, type_out = model(s)
-            is_digit = (n > 0.5)
-            loss = 0
-            if is_digit.any(): loss += criterion(out_d[is_digit], l[is_digit])
-            if (~is_digit).any(): loss += criterion(out_c[~is_digit], l[~is_digit])
-            loss += 0.5 * bin_crit(type_out, n)
-            tl += loss.item(); tot += l.size(0)
-            is_num_pred = torch.sigmoid(type_out) > 0.4
-            final_out = torch.where(is_num_pred.unsqueeze(-1), out_d, out_c)
-            c1 += final_out.max(1)[1].eq(l).sum().item()
-            c5 += (final_out.topk(5, 1)[1] == l.unsqueeze(-1)).any(1).sum().item()
+            out, _ = model(s, is_numeric=n)
+            tl += criterion(out, l).item(); tot += l.size(0)
+            c1 += out.max(1)[1].eq(l).sum().item()
+            c5 += (out.topk(5, 1)[1] == l.unsqueeze(-1)).any(1).sum().item()
     return tl/len(loader), 100.*c1/tot, 100.*c5/tot
 
 def collate_fn(batch):
@@ -236,29 +282,34 @@ if __name__ == "__main__":
         try: return 'google.colab' in str(get_ipython())
         except: return False
     BASE_DIR = '/content/drive/MyDrive/processed' if is_colab() else 'processed'
-    NUM_WORKERS = 2 if is_colab() else 4
+    LR = 0.0007 # Slightly adjusted LR
+
     (X_tr, y_tr), (X_vl, y_vl), (X_ts, y_ts), label_map = load_datasets(processed_dir=BASE_DIR)
     
-    tr_ds = SignDataset(X_tr, y_tr, label_map, augment=True)
-    d_idx = [i for i, n in enumerate(tr_ds.is_numeric) if n]
-    c_idx = [i for i, n in enumerate(tr_ds.is_numeric) if not n]
+    tr_ds_raw = SignDataset(X_tr, y_tr, label_map, face_weight=2.0)
+    tr_ds = PreprocessedSignDataset(tr_ds_raw, split='train', augment=True)
     
-    # [RE-BALANCED] 25% Digits (32) : 75% Chars (96)
-    d_loader = DataLoader(Subset(tr_ds, d_idx), batch_size=32, shuffle=True, collate_fn=collate_fn, num_workers=NUM_WORKERS, pin_memory=True)
-    c_loader = DataLoader(Subset(tr_ds, c_idx), batch_size=96, shuffle=True, collate_fn=collate_fn, num_workers=NUM_WORKERS, pin_memory=True)
+    # Sampler Weight: expanded for aug_factor=6
+    s_weights = []
+    for is_num in tr_ds_raw.is_numeric:
+        s_weights.extend([1.5 if is_num else 1.0] * 6)
+    sampler = WeightedRandomSampler(s_weights, num_samples=len(s_weights), replacement=True)
     
-    vl_loader = DataLoader(SignDataset(X_vl, y_vl, label_map), batch_size=128, collate_fn=collate_fn)
-    ts_loader = DataLoader(SignDataset(X_ts, y_ts, label_map), batch_size=128, collate_fn=collate_fn)
+    tr_loader = DataLoader(tr_ds, batch_size=128, sampler=sampler, collate_fn=collate_fn, num_workers=2, pin_memory=True)
+    vl_loader = DataLoader(PreprocessedSignDataset(SignDataset(X_vl, y_vl, label_map), augment=False), batch_size=128, collate_fn=collate_fn)
+    ts_loader = DataLoader(PreprocessedSignDataset(SignDataset(X_ts, y_ts, label_map), augment=False), batch_size=128, collate_fn=collate_fn)
 
-    model = TaskSeparatedTCN(len(label_map)).to('cuda')
-    criterion = nn.CrossEntropyLoss(label_smoothing=0.1)
-    optimizer = torch.optim.AdamW(model.parameters(), lr=0.0001, weight_decay=0.01)
+    model = TCNClassifier(len(label_map)).to('cuda')
+    cw = 1.0 / (torch.sqrt(torch.bincount(y_tr, minlength=len(label_map)).float()) + 1e-6); cw /= cw.mean()
+    criterion = FocalLoss(alpha=cw.to('cuda'), gamma=1.5)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=LR, weight_decay=0.01)
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, patience=3, factor=0.5)
-    early_stop = EarlyStopping(patience=12, verbose=True, path='best_ver2_1.pt')
+    early_stop = EarlyStopping(patience=10, verbose=True, path='best_ver2_1.pt')
     scaler = torch.amp.GradScaler('cuda')
 
+    print(f"Train Dataset Size: {len(tr_ds)}, Loader Steps: {len(tr_loader)}")
     for epoch in range(50):
-        t_l, t_a = train_epoch(model, d_loader, c_loader, criterion, optimizer, 'cuda', scaler, len(c_loader))
+        t_l, t_a = train_epoch(model, tr_loader, criterion, optimizer, 'cuda', scaler)
         v_l, v_a, v_5 = evaluate(model, vl_loader, criterion, 'cuda')
         print(f"Epoch {epoch+1}/50\nTrain Loss: {t_l:.4f}, Train Acc: {t_a:.2f}%\nVal Loss: {v_l:.4f}, Val Acc: {v_a:.2f}%, Val Top-5: {v_5:.2f}%")
         scheduler.step(v_l); early_stop(v_l, model)
