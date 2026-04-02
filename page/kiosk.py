@@ -1,5 +1,5 @@
 import streamlit as st
-from pages import step_0, step_1, step_2, step_3, step_4, step_5, step_6
+from page import step_0, step_1, step_2, step_3, step_4, step_5, step_6
 
 def main():
     # JavaScript로 스크롤 제어

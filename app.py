@@ -1,5 +1,5 @@
 import streamlit as st
-from pages import home, video, keypoint, webcam, kiosk
+from page import home, video, keypoint, webcam, kiosk
 from streamlit_option_menu import option_menu
 
 # 통합된 CSS 스타일 적용
