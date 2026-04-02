@@ -1,3 +1,5 @@
+디렉토리명을 pages -> page로 변경 (pages로 할 경우 streamlit 예약 명령어로 사이드바 자꾸 생성됨)
+
 # Streamlit 웹 애플리케이션 실행 가이드
 
 ## 가상환경 생성
