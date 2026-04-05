@@ -29,8 +29,7 @@
 디렉토리명을 pages -> page로 변경 (pages로 할 경우 streamlit 예약 명령어로 사이드바 생성됨)
 
 <br>
-<br>
-<br>
+
 
 # 수어 통역 시스템 실행 가이드
 
